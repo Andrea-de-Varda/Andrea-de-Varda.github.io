@@ -14,6 +14,7 @@
         <div class="brand"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
         <nav class="menu">
           <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+          <a href="{{ '/research/' | relative_url }}" class="{% if page.url contains '/research/' %}active{% endif %}">Research</a>
           <a href="{{ '/publications/' | relative_url }}" class="{% if page.url contains '/publications/' %}active{% endif %}">Publications</a>
         </nav>
       </div>
