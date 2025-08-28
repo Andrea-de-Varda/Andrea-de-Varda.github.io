@@ -1,0 +1,33 @@
+# Add your papers here. Keep entries consistent. Examples below.
+
+- title: "The cost of thinking is similar between large reasoning models and humans"
+  authors: "Andrea de Varda*, Ferdinando Pio D’Elia*, Andrew Lampinen, Evelina Fedorenko"
+  venue: "Preprint / under review"
+  year: 2025
+  preprint: ""         # e.g., https://arxiv.org/abs/xxxx.xxxxx
+  url: ""              # journal page if available
+  pdf: ""              # direct PDF link (optional)
+  code: ""             # GitHub repo (optional)
+  doi: ""
+
+- title: "Multilingual Computational Models Reveal Shared Brain Responses to 22 Languages"
+  authors: "Andrea de Varda, Greta Tuckute, Ben Lipkin, Evelina Fedorenko, et al."
+  venue: "In preparation"
+  year: 2025
+  preprint: ""
+  url: ""
+  pdf: ""
+  code: ""
+  doi: ""
+
+- title: "Cracking Arbitrariness: a Data-driven Study of Auditory Iconicity in Spoken English"
+  authors: "Andrea de Varda, Gary Lupyan"
+  venue: "Psychonomic Bulletin & Review (revisions submitted)"
+  year: 2024
+  preprint: ""
+  url: ""
+  pdf: ""
+  code: ""
+  doi: ""
+
+# Add more entries following the same schema.
