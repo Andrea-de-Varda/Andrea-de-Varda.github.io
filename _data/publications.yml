@@ -1,7 +1,7 @@
 # _data/publications.yml
 
 - title: "Scaling in cognitive modelling: A multilingual approach to human reading times"
-  authors: "Andrea de Varda, Marco Marelli"
+  authors: "Andrea G. de Varda, Marco Marelli"
   venue: "ACL (Short Papers)"
   year: 2023
   type: conference
@@ -25,7 +25,7 @@
   pdf: "https://watermark02.silverchair.com/coli_a_00472.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzkwggM1BgkqhkiG9w0BBwagggMmMIIDIgIBADCCAxsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMaV_Mp9BhuQC6LVmmAgEQgIIC7B42hScj4mKuxffsc66CgiQoPJcpS9NnWohEvojrvZ3HtLOudFKZFoYAVp_T9t4Vdq__GedIUYjKjFf3upV1QlXjWV51vTr64alzKOHaBqhjlzLH-txXW6zJwSNQGuZocANphMd8SGEyq6pXOQBTdYNrGgDoC1-L9NhCODzFnJjq3tdP00O11VJYQp7tA9GbJjmTIbO2foAtGXT5siq41WTaIxYX-baiLv3igrGr8AN-JroS_W33xK3KcZiWkWh79qElSSDQX9B2hacLctA53PMb8xSZYlmHqGG3oJY24KyAcOew0ZAjQ_PaAtJv6La8WCVRvTo6_tw373vVlEYXWNPgKQNzveKgTzFXnuqyJ8fDdAIESSmojLdafLkuplO4C55QTdCj5NHTY2NMPgpHVQjV4PLGc6Z_5EqbTs83f9j5a3TOne397PorMEw11ydY87NBcwjoNjPsWlhW4QiMLD2x1o455dt9m7q9umjWa-bVhqSxmuNZ8EdM6YI7RurswDVJLyqyVv4IhRzM7kBhj2O1ruACZcIWx6nbrsfGsU0889EQdL6yarVtHGPQ2sJY2GrgNQc39ZOT9O6cnW79KuqL0w6TSXyEa2lwLa6_7eTSzc-tdheK-xnAXE-UlPNZDk1ziMK4fcZ2wprbURHLIcn08LcjXafc2iJH6URzUJvbQU1HffoyO_H2sN5kC06pwxA_1jHBkHPD8Yluf8eIj2IPZMRNF0Xgk0lGiizE9TlYyoFdJYHrkI0fjDpGuLVyhpMONe_LFnzEzYb4e2vJqEQnjvBgNMBi3ecrXGTVnKnfb6Es3Xpo0PvuafK_SIabhsct_rV9i35mF3znb8SkfBfcnT1t-hzMi5HKPz9b6dIlZIqo4u8VCZq13l4cYGBPmqSpoJ6CM4c9YzcFiEeyh1GmVsJH_qMLjBsOn-Kzitf_7PQzd8RdRBKYJ2rnTq58BJEnNCzhVZRNdtLm3vVrcYfnOrcyqggZCT10_ZU"
 
 - title: "The effects of surprisal across languages: Results from native and non-native reading"
-  authors: "Andrea de Varda, Marco Marelli"
+  authors: "Andrea G. de Varda, Marco Marelli"
   venue: "Findings of ACL AACL-IJCNLP"
   year: 2022
   type: conference
@@ -41,7 +41,7 @@
   pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13147"
 
 - title: "Meaning Beyond Lexicality: Capturing Pseudoword Definitions with Language Models"
-  authors: "Andrea G. de Varda, Davide Gatti, Marco Marelli, Florian Günther"
+  authors: "Andrea G. de Varda, Davide Gatti, Marco Marelli, Fritz Günther"
   venue: "Computational Linguistics"
   year: 2024
   type: journal
@@ -49,7 +49,7 @@
   pdf: "https://watermark02.silverchair.com/coli_a_00527.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzowggM2BgkqhkiG9w0BBwagggMnMIIDIwIBADCCAxwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM-rGiAQq8KSYy7aE5AgEQgIIC7YGx70sFGg-USQY_8qZeNi5v8zO82uqROJnTKwDQPO2H-KOxbgfcRQtdjs20Qc2ILLj_V_1XYrOt4uSi9caIV0hHGVdbGfkooO5pYHrOdx8m3OYZ9IOWp-Tu7YGn_jgP-x0pg-iSXvr8nyAKjor6Ne16dephy-Zc6xl-yRR5CnvcQxY2DsFA-gI_T0AMcBZp7KcaHcmQcQlM8bv2KziOWELGSAhBtTLx95i3rwBSYRtkKnsXxlRx2bM3lyWeh9T9es6W6MUQXWuANsRWmiALGyI2GFrYT9qXysPGlq8ZNGoGuVscRuUXRWIgosnicrXwyjE0EjJhT3vT44WD4f_w0m9ydanbRmSdU-6o4pqrgR2-lpmTOd_j3mkbxB1P03pkHVH3VxLuqcRdBDjVzzGW1OvpsctTdVf5eBIaCbgJD2iDSiccHWajlAzWlTtKvO6h4bTwNXZCsWzxsEJqAUNZOYT5hg4BE9XhqrfbsDOIbuTPY64XoaEU7irMdroQBEwuVDlCBH187m8uGLD9I2Rd6BdGk-IG1O6WskBnMT22jnMyhONPFU2rkunxb8Vd9mElHpxBL9EMimcmQooQDIv6NFSXvWDX1-6QK3YJ6D5KwYQQwS-JhwEoUT8x3Z3pCn0MnNHGCR7HAmZa0WmCb5PMX7PyyBpdeIM0dlr8lXPaWPM14cQUkt-a2qdXsZp0peMtiBpJbkY0yU39f-Oup1IKKcJZmZ2emW9GvI9RTKjxvVYTUHJ4_gBAzI0nTACaFHa4TTY7GAuma5F0cvylONOteV57uCNTZ8_7KMfnThNZ-BnUZGiJCLoUIUyN-Z3FuArAomkiKHOM0nrmc0XyaJ93f-6M747rB1f6pTFXp5fjqtWkC3yrFjMkPScM6XfnHE7fVqFah9Ilio8L_12iUc6A31utUTDJ9kbGTIeEkaDUV9NItWKMz4YdLbC-I_FQAINi8ZM7evgpgGuF8YjCN7tSY8mabgM7VTe5UDpknd_7"
 
 - title: "Locally biased transformers better align with human reading times"
-  authors: "Andrea de Varda, Marco Marelli"
+  authors: "Andrea G. de Varda, Marco Marelli"
   venue: "CMCL Workshop"
   year: 2024
   type: conference
