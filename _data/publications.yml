@@ -1,33 +1,155 @@
-# Add your papers here. Keep entries consistent. Examples below.
+# _data/publications.yml
+
+- title: "Scaling in cognitive modelling: A multilingual approach to human reading times"
+  authors: "Andrea de Varda, Marco Marelli"
+  venue: "ACL (Short Papers)"
+  year: 2023
+  url: "https://aclanthology.org/2023.acl-short.103/"
+  pdf: "https://aclanthology.org/2023.acl-short.103.pdf"
+
+- title: "Cloze probability, predictability ratings, and computational estimates for 205 English sentences, aligned with existing EEG and reading time data"
+  authors: "Andrea G. de Varda, Marco Marelli, Simona Amenta"
+  venue: "Behavior Research Methods"
+  year: 2024
+  url: "https://link.springer.com/article/10.3758/s13428-023-02261-8"
+  pdf: "https://link.springer.com/content/pdf/10.3758/s13428-023-02261-8.pdf"
+
+- title: "Data-driven cross-lingual syntax: An agreement study with massively multilingual models"
+  authors: "Andrea G. de Varda, Marco Marelli"
+  venue: "Computational Linguistics"
+  year: 2023
+  url: "https://direct.mit.edu/coli/article/49/2/261/113396"
+  pdf: "https://direct.mit.edu/coli/article-pdf/49/2/261/2052263/coli_a_00479.pdf"
+
+- title: "The effects of surprisal across languages: Results from native and non-native reading"
+  authors: "Andrea de Varda, Marco Marelli"
+  venue: "Findings of ACL AACL-IJCNLP"
+  year: 2022
+  url: "https://aclanthology.org/2022.findings-aacl.69/"
+  pdf: "https://aclanthology.org/2022.findings-aacl.69.pdf"
+
+- title: "A Cross-Modal and Cross-lingual Study of Iconicity in Language: Insights From Deep Learning"
+  authors: "Andrea G. de Varda, Carlo Strapparava"
+  venue: "Cognitive Science"
+  year: 2022
+  url: "https://onlinelibrary.wiley.com/doi/10.1111/cogs.13147"
+  pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/cogs.13147"
+
+- title: "Meaning Beyond Lexicality: Capturing Pseudoword Definitions with Language Models"
+  authors: "Andrea G. de Varda, Davide Gatti, Marco Marelli, Florian Günther"
+  venue: "Computational Linguistics"
+  year: 2024
+  url: "https://direct.mit.edu/coli/article/50/4/1313/123792"
+  pdf: "https://direct.mit.edu/coli/article-pdf/50/4/1313/2114489/coli_a_00574.pdf"
+
+- title: "Locally biased transformers better align with human reading times"
+  authors: "Andrea de Varda, Marco Marelli"
+  venue: "CMCL Workshop"
+  year: 2024
+  url: "https://aclanthology.org/2024.cmcl-1.12/"
+  pdf: "https://aclanthology.org/2024.cmcl-1.12.pdf"
+
+- title: "A layered bridge from sound to meaning: Investigating cross-linguistic phonosemantic correspondences"
+  authors: "Andrea G. de Varda, Carlo Strapparava"
+  venue: "CogSci"
+  year: 2021
+  url: "https://escholarship.org/uc/item/1nu6w5qh"
+  pdf: "https://escholarship.org/content/qt1nu6w5qh/qt1nu6w5qh.pdf"
+
+- title: "Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science"
+  authors: "Abel Brodeur, et al. (incl. Andrea G. de Varda)"
+  venue: "CEPR / I4R Discussion Paper"
+  year: 2025
+  url: "https://cepr.org/publications/dp19004"
+  pdf: "https://cepr.org/system/files/publication-files/197574-dp19004-comparing-human-only-ai-assisted-and-ai-led-teams-on-assessing-research-reproducibility-in-quantitative-social-science.pdf"
+
+- title: "Multilingual computational models reveal shared brain responses to 21 languages"
+  authors: "Andrea G. de Varda, Safia Malik-Moraleda, Greta Tuckute, Evelina Fedorenko"
+  venue: "bioRxiv"
+  year: 2025
+  url: "https://www.biorxiv.org/content/10.1101/2025.02.01.636044v1"
+  pdf: "https://www.biorxiv.org/content/10.1101/2025.02.01.636044v1.full.pdf"
+
+- title: "The Italian Crowdsourcing Project: Visual word recognition times for 130,495 Italian words"
+  authors: "Simona Amenta, Andrea G. de Varda, Pawel Mandera, Emmanuel Keuleers, Marc Brysbaert, Marco Marelli"
+  venue: "Behavior Research Methods"
+  year: 2025
+  url: "https://link.springer.com/article/10.3758/s13428-024-02548-4"
+  pdf: "https://link.springer.com/content/pdf/10.3758/s13428-024-02548-4.pdf"
+
+- title: "The emergence of semantic units in massively multilingual models"
+  authors: "Andrea G. de Varda, Marco Marelli"
+  venue: "LREC-COLING"
+  year: 2024
+  url: "https://aclanthology.org/2024.lrec-main.563/"
+  pdf: "https://aclanthology.org/2024.lrec-main.563.pdf"
+
+- title: "Multilingualism encourages recursion: a transfer study with mBERT"
+  authors: "Andrea G. de Varda, Roberto Zamparelli"
+  venue: "SIGTYP Workshop"
+  year: 2022
+  url: "https://aclanthology.org/2022.sigtyp-1.4/"
+  pdf: "https://aclanthology.org/2022.sigtyp-1.4.pdf"
+
+- title: "Cracking arbitrariness: A data-driven study of auditory iconicity in spoken English"
+  authors: "Andrea G. de Varda, Marco Marelli"
+  venue: "Psychonomic Bulletin & Review"
+  year: 2025
+  url: "https://link.springer.com/article/10.3758/s13423-025-02818-1"
+  pdf: "https://link.springer.com/content/pdf/10.3758/s13423-025-02818-1.pdf"
+
+- title: "Phonovisual Biases in Language: Is the Lexicon Tied to the Visual World?"
+  authors: "Andrea G. de Varda, Carlo Strapparava"
+  venue: "IJCAI"
+  year: 2021
+  url: "https://www.ijcai.org/proceedings/2021/0897"
+  pdf: "https://www.ijcai.org/proceedings/2021/0897.pdf"
+
+- title: "Phonological Layers of Meaning: A Computational Exploration of Sound Iconicity"
+  authors: "Andrea G. de Varda, Carlo Strapparava"
+  venue: "CLiC-it (CEUR)"
+  year: 2020
+  url: "http://ceur-ws.org/Vol-2769/paper-22.pdf"
+  pdf: "http://ceur-ws.org/Vol-2769/paper-22.pdf"
+
+- title: "High variability in LLMs’ analogical reasoning"
+  authors: "Andrea G. de Varda, Chiara Saponaro, Marco Marelli"
+  venue: "Nature Human Behaviour (Correspondence)"
+  year: 2025
+  url: "https://doi.org/10.1038/s41562-025-02224-3"
+  pdf: ""   # paywalled, no OA version
+
+- title: "A distributional model of concepts grounded in the spatial organization of objects"
+  authors: "Andrea G. de Varda, Marta Petilli, Marco Marelli"
+  venue: "Journal of Memory and Language"
+  year: 2025
+  url: "https://www.sciencedirect.com/science/article/pii/S0749596X25000178"
+  pdf: "https://www.sciencedirect.com/science/article/pii/S0749596X25000178/pdfft" # direct pdf
+
+- title: "Multilingual Neural Language Models in Cognitive Science: How Cross-lingual Representation Spaces can Inform the Study of Language"
+  authors: "Andrea G. de Varda"
+  venue: "Doctoral Thesis, Milano-Bicocca"
+  year: 2025
+  url: "https://boa.unimib.it/handle/10281/540581"
+  pdf: ""   # embargoed
+
+- title: "The BERT Model Family and Encoder-Only Transformers"
+  authors: "M. Ciapparelli, Andrea G. de Varda"
+  venue: "Elsevier Reference Module"
+  year: 2025
+  url: "https://www.researchgate.net/publication/393777986_The_BERT_Model_Family_and_Encoder-Only_Transformers"
+  pdf: "https://www.researchgate.net/publication/393777986_The_BERT_Model_Family_and_Encoder-Only_Transformers"
+
+- title: "Word Semantic Similarity Norms"
+  authors: "Andrea G. de Varda, M. Ciapparelli"
+  venue: "Elsevier Reference Module"
+  year: 2024
+  url: "https://www.researchgate.net/publication/385872436_Word_Semantic_Similarity_Norms"
+  pdf: "https://www.researchgate.net/publication/385872436_Word_Semantic_Similarity_Norms"
 
 - title: "The cost of thinking is similar between large reasoning models and humans"
-  authors: "Andrea de Varda*, Ferdinando Pio D’Elia*, Andrew Lampinen, Evelina Fedorenko"
-  venue: "Preprint / under review"
+  authors: "Andrea G. de Varda, Ferdinando Pio D’Elia, Andrew Lampinen, Evelina Fedorenko"
+  venue: "OSF Preprint"
   year: 2025
-  preprint: ""         # e.g., https://arxiv.org/abs/xxxx.xxxxx
-  url: ""              # journal page if available
-  pdf: ""              # direct PDF link (optional)
-  code: ""             # GitHub repo (optional)
-  doi: ""
-
-- title: "Multilingual Computational Models Reveal Shared Brain Responses to 22 Languages"
-  authors: "Andrea de Varda, Greta Tuckute, Ben Lipkin, Evelina Fedorenko, et al."
-  venue: "In preparation"
-  year: 2025
-  preprint: ""
-  url: ""
-  pdf: ""
-  code: ""
-  doi: ""
-
-- title: "Cracking Arbitrariness: a Data-driven Study of Auditory Iconicity in Spoken English"
-  authors: "Andrea de Varda, Gary Lupyan"
-  venue: "Psychonomic Bulletin & Review (revisions submitted)"
-  year: 2024
-  preprint: ""
-  url: ""
-  pdf: ""
-  code: ""
-  doi: ""
-
-# Add more entries following the same schema.
+  url: "https://doi.org/10.31234/osf.io/m2cu5"
+  pdf: "https://osf.io/download/m2cu5/"
