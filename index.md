@@ -27,17 +27,6 @@ permalink: /
   </p>
 </section>
 
-
-<section>
-  <h2>Research Interests</h2>
-  <ul>
-    <li>Language–brain alignment across diverse languages</li>
-    <li>Reasoning models and human chronometric (RT) data</li>
-    <li>Syntactic representation and model interpretability</li>
-    <li>Encoding models, surprisal, and neural/behavioral responses</li>
-  </ul>
-</section>
-
 <section>
   <h2>Contact & Links</h2>
   <p>
