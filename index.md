@@ -11,7 +11,6 @@ permalink: /
     <p class="tagline">Postdoctoral fellow, McGovern Institute for Brain Research, MIT</p>
     <p class="tagline">Member of <a href="https://evlab.mit.edu/" target="_blank" rel="noopener">Ev Fedorenko's Language Lab</a></p>
   </div>
-  </div>
 </div>
 
 <section>
