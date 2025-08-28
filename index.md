@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="hero">
-  <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Portrait of Andrea de Varda" class="avatar">
+  <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="headshot" class="avatar">
   <div>
     <h1 class="name">Andrea de Varda</h1>
     <p class="tagline">Postdoctoral Researcher · Language, Brain, and AI</p>
