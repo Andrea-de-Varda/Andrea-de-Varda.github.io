@@ -10,7 +10,7 @@ permalink: /research/
 Multilingual neural language models (MNLMs) are compelling scientific objects because they provide a single parametrized system that processes many languages, allowing controlled comparisons within one architecture. Unlike human studies, MNLMs can be probed at scale, intervened on, and inspected at the unit level without measurement noise. This makes them powerful tools for testing language-general hypotheses about representation and processing. At the same time, they help counter the English-centric bias of both NLP and cognitive science by enabling analyses across diverse typologies. My work uses MNLMs to ask whether a shared representational space emerges across languages and whether such spaces explain human behavior and brain responses.
 
 <div class="research-card">
-  <img src="{{ '/assets/img/research/interpretability.jpg' | relative_url }}" alt="Hidden units and multilingual structure">
+  <img src="{{ '/assets/img/research/interpretability.png' | relative_url }}" alt="Hidden units and multilingual structure">
   <div class="card-body">
     <h3>Interpretability of representations (syntax & semantics)</h3>
     <p>
@@ -22,7 +22,6 @@ Multilingual neural language models (MNLMs) are compelling scientific objects be
 </div>
 
 <div class="research-card">
-  <img src="{{ '/assets/img/research/reading.jpg' | relative_url }}" alt="Reading times and predictability">
   <div class="card-body">
     <h3>Reading across languages & probabilistic information</h3>
     <p>
@@ -33,8 +32,9 @@ Multilingual neural language models (MNLMs) are compelling scientific objects be
   </div>
 </div>
 
+
 <div class="research-card">
-  <img src="{{ '/assets/img/research/brain.jpg' | relative_url }}" alt="Brain responses to language across languages">
+  <img src="{{ '/assets/img/research/brain.png' | relative_url }}" alt="Brain responses to language across languages">
   <div class="card-body">
     <h3>Brain–model alignment across languages</h3>
     <p>
