@@ -15,8 +15,7 @@ I am deeply fascinated my multilingual neural language models (MNLMs): I believe
     <h3>Interpretability of representations (syntax & semantics)</h3>
     <p>
       I analyze where and how MNLMs encode linguistic structure, testing whether the same latent dimensions support
-      syntactic agreement and affective semantics across languages. I compare unit- and subspace-level signals and
-      identify layers that concentrate cross-lingual structure. <span class="muted">(see <a href="{{ '/publications/' | relative_url }}">publications</a>)</span>
+      syntactic agreement and affective semantics across languages. I compare unit- and subspace-level analyses. Multiple studies point to the idea that these models represent the same linguistic phenomena in a consistent way across languages. <span class="muted">(see <a href="{{ '/publications/' | relative_url }}">publications</a>)</span>
     </p>
   </div>
 </div>
@@ -25,9 +24,8 @@ I am deeply fascinated my multilingual neural language models (MNLMs): I believe
   <div class="card-body">
     <h3>Reading across languages & probabilistic information</h3>
     <p>
-      I relate model-based predictability (e.g., surprisal, cloze-aligned measures) to eye-tracking and reading
-      behaviour across multiple languages, testing scaling effects (model size vs. early/late measures) and architectural
-      biases that better capture human RTs. <span class="muted">(see <a href="{{ '/publications/' | relative_url }}">publications</a>)</span>
+      I relate model-based predictability (e.g., surprisal, cloze measures) to eye-tracking and reading
+      behaviour across multiple languages. I am particularly interested in scaling effects (model size) and how they relate to different stages of processing (early/late fixation measures). I am also interested in the interplay between memory limitations and predictability, and which architectural biases that better capture human RTs. <span class="muted">(see <a href="{{ '/publications/' | relative_url }}">publications</a>)</span>
     </p>
   </div>
 </div>
