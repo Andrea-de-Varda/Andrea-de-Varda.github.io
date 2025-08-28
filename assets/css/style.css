@@ -67,9 +67,9 @@ footer{border-top:1px solid var(--border);margin-top:36px;padding:18px 0;color:v
   background:var(--card);
   margin:16px 0;
 }
-.research-card img{
-  width: 180px;
-  height: 120px;
+.research-card img {
+  width: 240px;   /* was 180px */
+  height: 160px;  /* was 120px */
   object-fit: cover;
   border-radius: 10px;
   border: 1px solid var(--border);
