@@ -39,9 +39,10 @@ permalink: /
 <section>
   <h2>Contact & Links</h2>
   <p>
-    📧 E-Mail: <span class="mono">devar_ag ([at]) mit ([dot]) edu</span><br>
-    👾 GitHub: <a href="https://github.com/Andrea-de-Varda" rel="me">github.com/Andrea-de-Varda</a><br>
+    📧 E-Mail: <span class="mono">devar_ag ✶ mit ✹ edu</span>
+    🎓 Google Scholar: <a href="https://scholar.google.com/citations?user=Iwm9mC0AAAAJ&hl=en" target="_blank" rel="noopener">scholar.google.com</a>
     🐦 Twitter: <a href="https://x.com/devarda_a" rel="me">x.com/devarda_a</a><br>
     🦋 BlueSky: <a href="https://bsky.app/profile/andreadevarda.bsky.social" rel="me">andreadevarda.bsky.social</a>
+    👾 GitHub: <a href="https://github.com/Andrea-de-Varda" rel="me">github.com/Andrea-de-Varda</a><br>
   </p>
 </section>
