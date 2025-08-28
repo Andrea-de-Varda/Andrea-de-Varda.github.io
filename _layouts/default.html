@@ -1,13 +1,45 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    {% seo %}
-  </head>
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}"/>
+
+  <!-- Favicon (optional) -->
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}">
+
+  <!-- Person schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Andrea de Varda",
+    "jobTitle": "Postdoctoral fellow",
+    "affiliation": [{
+      "@type": "Organization",
+      "name": "Massachusetts Institute of Technology (MIT)"
+    }],
+    "url": "{{ site.url }}/",
+    "sameAs": [
+      "https://scholar.google.com/citations?user=Iwm9mC0AAAAJ&hl=en",
+      "https://github.com/Andrea-de-Varda",
+      "https://x.com/devarda_a",
+      "https://bsky.app/profile/andreadevarda.bsky.social",
+      "https://evlab.mit.edu/"
+    ]
+  }
+  </script>
+
+  {% seo %}
+</head>
+  
   <body>
     <header>
       <div class="container nav">
