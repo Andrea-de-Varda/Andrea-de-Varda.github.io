@@ -97,7 +97,7 @@ Language is not fully arbitrary. My work examines systematic sound–meaning lin
 </div>
 
 <div class="research-card">
-  <img src="{{ '/assets/img/research/full_panel_revised.svg' | relative_url }}" alt="Reasoning steps predicting human reaction times">
+  <img src="{{ '/assets/img/research/full_scatter.svg' | relative_url }}" alt="Reasoning steps predicting human reaction times">
   <div class="card-body">
     <h3>The cognitive cost of reasoning</h3>
     <p>
