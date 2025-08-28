@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% seo %}
+  </head>
+  <body>
+    <header>
+      <div class="container nav">
+        <div class="brand"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
+        <nav class="menu">
+          <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+          <a href="{{ '/publications/' | relative_url }}" class="{% if page.url contains '/publications/' %}active{% endif %}">Publications</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      {{ content }}
+    </main>
+
+    <footer>
+      <div class="container">
+        © {{ site.time | date: '%Y' }} {{ site.title }}. Last updated {{ site.time | date: '%b %e, %Y' }}.
+      </div>
+    </footer>
+  </body>
+</html>
