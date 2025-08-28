@@ -15,7 +15,8 @@ I am deeply fascinated my multilingual neural language models (MNLMs): I believe
     <h3>Interpretability of representations (syntax & semantics)</h3>
     <p>
       I analyze where and how MNLMs encode linguistic structure, testing whether the same latent dimensions support
-      syntactic agreement and affective semantics across languages. I compare unit- and subspace-level analyses. Multiple studies point to the idea that these models represent the same linguistic phenomena in a consistent way across languages. <span class="muted">(see <a href="{{ '/publications/' | relative_url }}">publications</a>)</span>
+      syntactic agreement and affective semantics across languages. I compare unit- and subspace-level analyses. Multiple studies point to the idea that these models represent the same linguistic phenomena in a consistent way across languages. 
+      <span class="muted">(see <em><a href="https://direct.mit.edu/coli/article/49/2/261/113396">Data-driven Cross-lingual Syntax: An Agreement Study with Massively Multilingual Models</a></em>, Computational Linguistics, 2023 and <em><a href="https://aclanthology.org/2024.lrec-main.1382/">The Emergence of Semantic Units in Massively Multilingual Models</a></em>, LREC-COLING, 2024)</span> 
     </p>
   </div>
 </div>
@@ -25,7 +26,8 @@ I am deeply fascinated my multilingual neural language models (MNLMs): I believe
     <h3>Reading across languages & probabilistic information</h3>
     <p>
       I relate model-based predictability (e.g., surprisal, cloze measures) to eye-tracking and reading
-      behaviour across multiple languages. I am particularly interested in scaling effects (model size) and how they relate to different stages of processing (early/late fixation measures). I am also interested in the interplay between memory limitations and predictability, and which architectural biases that better capture human RTs. <span class="muted">(see <a href="{{ '/publications/' | relative_url }}">publications</a>)</span>
+      behaviour across multiple languages. I am particularly interested in scaling effects (model size) and how they relate to different stages of processing (early/late fixation measures). I am also interested in the interplay between memory limitations and predictability, and which architectural biases that better capture human RTs.
+      <span class="muted">(see <em><a href="https://aclanthology.org/2022.findings-aacl.13/">The Effects of Surprisal Across Languages: Results from Native and Non-native Reading</a></em>, Findings of ACL AACL-IJCNLP, 2022 and <em><a href="https://aclanthology.org/2023.acl-short.14/">Scaling in Cognitive Modelling: A Multilingual Approach to Human Reading Times</a></em>, ACL Short Papers, 2023)</span> 
     </p>
   </div>
 </div>
@@ -38,7 +40,8 @@ I am deeply fascinated my multilingual neural language models (MNLMs): I believe
     <p>
       I train encoding models to predict fMRI responses to language from MNLM embeddings and test zero-shot transfer
       across languages and families. Results point to language-general principles in neural responses to linguistic
-      input. <span class="muted">(see <a href="{{ '/publications/' | relative_url }}">publications</a>)</span>
+      input.
+      <span class="muted">(see <em><a href="https://www.biorxiv.org/content/10.1101/2025.02.01.636044v1">Multilingual Computational Models Reveal Shared Brain Responses to 21 Languages</a></em>, bioRxiv, 2025)</span>
     </p>
   </div>
 </div>
@@ -53,7 +56,7 @@ Language is not fully arbitrary. My work examines systematic sound–meaning lin
     <h3>Cross-lingual phonosemantic correspondences</h3>
     <p>
       We train sequence models to map phonetic representations to sensory, semantic, and word-class targets across typologically distant languages, and test zero-shot transfer (so that the models are trained to map sound onto meaning representations in, say, English, and then tested in Tamil). Successful transfer indicates language-invariant cues linking form to meaning and syntactic class.
-      <span class="muted">(see <em>A Cross-Modal and Cross-lingual Study of Iconicity in Language</em>, Cognitive Science)</span>
+      <span class="muted">(see <em><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13147">A Cross-Modal and Cross-lingual Study of Iconicity in Language: Insights From Deep Learning</a></em>, Cognitive Science, 2022)</span> 
     </p>
   </div>
 </div>
@@ -64,7 +67,7 @@ Language is not fully arbitrary. My work examines systematic sound–meaning lin
     <h3>Meaning beyond lexicality (pseudowords)</h3>
     <p>
       Using exploratory–confirmatory designs, we test whether people (and language models) can ascribe  declarative meanings to novel word forms. Human definitions and model outputs show systematic form-to-meaning mappings, supporting flexible generalization beyond the existing lexicon.
-      <span class="muted">(see <em>Meaning Beyond Lexicality: Capturing Pseudoword Definitions with Language Models</em>, Computational Linguistics, Open Access)</span>
+      <span class="muted">(see <em><a href="https://direct.mit.edu/coli/article/50/4/1313/123792">Meaning Beyond Lexicality: Capturing Pseudoword Definitions with Language Models</a></em>, Computational Linguistics, 2024)</span> 
     </p>
   </div>
 </div>
@@ -75,7 +78,7 @@ Language is not fully arbitrary. My work examines systematic sound–meaning lin
     <h3>Auditory iconicity at scale</h3>
     <p>
       We embed natural sounds and spoken words into a shared auditory space (STFT, CNNs for sound and speech classification) to quantify direct resemblance between word sounds (e.g., the sound of the word "frog") and natural sounds (e.g., the sound of a frog croaking). Auditory imitation is widespread across the English auditory vocabulary, and aligns with human iconicity judgments.
-      <span class="muted">(see <em>Cracking Arbitrariness: A Data-driven Study of Auditory Iconicity in Spoken English</em>, Psychonomic Bulletin &amp; Review)</span>
+      <span class="muted">(see <em><a href="https://link.springer.com/article/10.3758/s13423-024-02630-0">Cracking Arbitrariness: A Data-driven Study of Auditory Iconicity in Spoken English</a></em>, Psychonomic Bulletin & Review, 2025)</span>
     </p>
   </div>
 </div>
@@ -91,7 +94,7 @@ Language is not fully arbitrary. My work examines systematic sound–meaning lin
       spatial relations between objects in natural images. The model learns from 
       object–object distances to capture semantic similarity, relatedness, and analogical structure, 
       complementing text- and vision-based embeddings.
-      <span class="muted">(see <em>A Distributional Model of Concepts Grounded in the Spatial Organization of Objects</em>, Journal of Memory and Language, 2025, <a href="https://doi.org/10.1016/j.jml.2025.104624">open access</a>)</span>
+      <span class="muted">(see <em><a href="https://www.sciencedirect.com/science/article/pii/S0749596X25000178">A Distributional Model of Concepts Grounded in the Spatial Organization of Objects</a></em>, Journal of Memory and Language, 2025)</span>
     </p>
   </div>
 </div>
@@ -104,7 +107,7 @@ Language is not fully arbitrary. My work examines systematic sound–meaning lin
       We compare humans and large reasoning models across arithmetic, logic, and relational reasoning. 
       The number of chain-of-thought steps generated by the model predicts human reaction times, both 
       within and across tasks. This alignment shows that reasoning models mirror human cognitive effort.
-      <span class="muted">(see <em>The Cost of Thinking is Similar Between Large Reasoning Models and Humans</em>, OSF Preprint, 2025)</span>
+      <span class="muted">(see <em><a href="https://www.researchgate.net/publication/394002710_The_cost_of_thinking_is_similar_between_large_reasoning_models_and_humans">The Cost of Thinking is Similar Between Large Reasoning Models and Humans</a></em>, OSF Preprint, 2025)</span>
     </p>
   </div>
 </div>
