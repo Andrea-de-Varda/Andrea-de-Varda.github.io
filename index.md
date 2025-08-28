@@ -8,15 +8,14 @@ permalink: /
   <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="headshot" class="avatar">
   <div>
     <h1 class="name">Andrea de Varda</h1>
-    <p class="tagline">Postdoctoral Researcher · Language, Brain, and AI</p>
+    <p class="tagline">Postdoctoral fellow, McGovern Institute for Brain Research, MIT</p>
   </div>
 </div>
 
 <section>
   <h2>About</h2>
   <p>
-  I study how language is represented and processed in humans and machines, integrating computational models with neural and behavioral data.
-  My work spans multilingual language models, brain–model alignment, and reasoning dynamics.
+  I study how language is represented and processed in humans and machines, integrating computational models with brain and behavioral data.
   </p>
 </section>
 
