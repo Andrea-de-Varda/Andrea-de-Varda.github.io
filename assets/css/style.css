@@ -34,9 +34,21 @@ h2{margin:16px 0 8px}
 
 .pub-filters{margin:12px 0;color:var(--muted);font-size:14px}
 .pub-item{padding:14px;border:1px solid var(--border);border-radius:12px;background:var(--card);margin:12px 0}
-.pub-head{display:flex;gap:12px;align-items:baseline;flex-wrap:wrap}
-.pub-year{font-weight:700;color:var(--muted)}
-.pub-title{margin:0}
+.pub-head {
+  display: grid;
+  grid-template-columns: 50px 1fr; /* column for year, column for title */
+  gap: 10px;
+  align-items: baseline;
+}
+.pub-year {
+  font-weight: 700;
+  color: var(--muted);
+}
+.pub-title {
+  margin: 0;
+  font-size: 1rem;      /* smaller than default h2 */
+  line-height: 1.4;
+}
 .pub-authors,.pub-venue{color:var(--muted)}
 .pub-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}
 .pub-links a{background:#fff;border:1px solid var(--border);padding:4px 8px;border-radius:8px}
