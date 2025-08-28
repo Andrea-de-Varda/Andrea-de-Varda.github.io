@@ -28,7 +28,7 @@ permalink: /
 </section>
 
 <section>
-  <h2>Explore More</h2>
+  <h3>More</h2>
   <p>
     🔗 See the <a href="{{ '/publications/' | relative_url }}">Publications</a> page for a list of my papers, 
     or visit my <a href="https://scholar.google.com/citations?user=Iwm9mC0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar profile</a> for the most up-to-date list.<br>
@@ -37,7 +37,7 @@ permalink: /
 </section>
 
 <section>
-  <h2>Contact & Links</h2>
+  <h3>Contact & Links</h2>
   <p>
     📧 E-Mail: <span class="mono">devar_ag ✶ mit ✹ edu</span>
     🎓 Google Scholar: <a href="https://scholar.google.com/citations?user=Iwm9mC0AAAAJ&hl=en" target="_blank" rel="noopener">scholar.google.com</a>
