@@ -29,4 +29,4 @@ permalink: /publications/
   </div>
 {% endfor %}
 
-<p class="pub-note">In case you want a pdf version of one of these papers, please email me!</a>.</p>
+<p class="pub-note">In case you want a pdf version of one of these papers, please email me!</p>
