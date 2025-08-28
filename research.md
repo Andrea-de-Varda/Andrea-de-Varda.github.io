@@ -43,6 +43,44 @@ I am deeply fascinated my multilingual neural language models (MNLMs): I believe
   </div>
 </div>
 
+## Non-arbitrariness and iconicity
+
+Language is not fully arbitrary. My work examines systematic sound–meaning links using computational tools, behavioral data, and cross-lingual evaluation.
+
+<div class="research-card">
+  <img src="{{ '/assets/img/research/multilingual.jpg' | relative_url }}" alt="Cross-lingual transfer of phonosemantic patterns">
+  <div class="card-body">
+    <h3>Cross-lingual phonosemantic correspondences</h3>
+    <p>
+      We train sequence models to map phonetic representations to sensory, semantic, and word-class targets across typologically distant languages, and test zero-shot transfer (so that the models are trained to map sound onto meaning representations in, say, English, and then tested in Tamil). Successful transfer indicates language-invariant cues linking form to meaning and syntactic class.
+      <span class="muted">(see <em>A Cross-Modal and Cross-lingual Study of Iconicity in Language</em>, Cognitive Science)</span>
+    </p>
+  </div>
+</div>
+
+<div class="research-card">
+  <img src="{{ '/assets/img/research/pseudowords.png' | relative_url }}" alt="Interpretable meanings for pseudowords">
+  <div class="card-body">
+    <h3>Meaning beyond lexicality (pseudowords)</h3>
+    <p>
+      Using exploratory–confirmatory designs, we test whether people (and language models) can ascribe  declarative meanings to novel word forms. Human definitions and model outputs show systematic form-to-meaning mappings, supporting flexible generalization beyond the existing lexicon.
+      <span class="muted">(see <em>Meaning Beyond Lexicality: Capturing Pseudoword Definitions with Language Models</em>, Computational Linguistics, Open Access)</span>
+    </p>
+  </div>
+</div>
+
+<div class="research-card">
+  <img src="{{ '/assets/img/research/PBR.png' | relative_url }}" alt="Auditory resemblance between words and sounds">
+  <div class="card-body">
+    <h3>Auditory iconicity at scale</h3>
+    <p>
+      We embed natural sounds and spoken words into a shared auditory space (STFT, CNNs for sound and speech classification) to quantify direct resemblance between word sounds (e.g., the sound of the word "frog") and natural sounds (e.g., the sound of a frog croaking). Auditory imitation is widespread across the English auditory vocabulary, and aligns with human iconicity judgments.
+      <span class="muted">(see <em>Cracking Arbitrariness: A Data-driven Study of Auditory Iconicity in Spoken English</em>, Psychonomic Bulletin &amp; Review)</span>
+    </p>
+  </div>
+</div>
+
+
 <p class="pub-note">
 For full citations and links to journals and PDFs, see the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.
 </p>
