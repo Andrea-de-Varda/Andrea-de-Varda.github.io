@@ -28,7 +28,7 @@ permalink: /
 </section>
 
 <section>
-  <h3>More</h2>
+  <h3>More</h3>
   <p>
     🔗 See the <a href="{{ '/publications/' | relative_url }}">Publications</a> page for a list of my papers, 
     or visit my <a href="https://scholar.google.com/citations?user=Iwm9mC0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar profile</a> for the most up-to-date list.<br>
@@ -37,12 +37,12 @@ permalink: /
 </section>
 
 <section>
-  <h3>Contact & Links</h2>
-  <p>
-    📧 E-Mail: <span class="mono">devar_ag ✶ mit ✹ edu</span>
-    🎓 Google Scholar: <a href="https://scholar.google.com/citations?user=Iwm9mC0AAAAJ&hl=en" target="_blank" rel="noopener">scholar.google.com</a>
-    🐦 Twitter: <a href="https://x.com/devarda_a" rel="me">x.com/devarda_a</a><br>
-    🦋 BlueSky: <a href="https://bsky.app/profile/andreadevarda.bsky.social" rel="me">andreadevarda.bsky.social</a>
-    👾 GitHub: <a href="https://github.com/Andrea-de-Varda" rel="me">github.com/Andrea-de-Varda</a><br>
-  </p>
+  <h3>Contact & Links</h3>
+<p>
+  📧 E-Mail: <span class="mono">devar_ag ✶ mit ✹ edu</span><br>
+  🎓 Google Scholar: <a href="https://scholar.google.com/citations?user=Iwm9mC0AAAAJ&hl=en" target="_blank" rel="noopener">scholar.google.com</a><br>
+  🐦 Twitter: <a href="https://x.com/devarda_a" rel="me">x.com/devarda_a</a><br>
+  🦋 BlueSky: <a href="https://bsky.app/profile/andreadevarda.bsky.social" rel="me">andreadevarda.bsky.social</a><br>
+  👾 GitHub: <a href="https://github.com/Andrea-de-Varda" rel="me">github.com/Andrea-de-Varda</a><br>
+</p>
 </section>
