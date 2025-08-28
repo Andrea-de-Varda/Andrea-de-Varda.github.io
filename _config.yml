@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
 title: Andrea de Varda
 description: Personal website and research updates
+url: https://andrea-de-varda.github.io
+baseurl: ""
+markdown: kramdown
+timezone: Europe/Paris
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
