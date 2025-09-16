@@ -18,7 +18,7 @@ permalink: /
   <p>
     I am a postdoctoral researcher in the Department of Brain and Cognitive Sciences at the 
     Massachusetts Institute of Technology (MIT), working with <a href="https://evlab.mit.edu/" target="_blank" rel="noopener">Evelina Fedorenko</a>  and <a href="http://cpl.mit.edu/index.html" target="_blank" rel="noopener">Roger Levy</a>. 
-    My research combines computational modeling, brain imaging, and behavioral methods to study 
+    My work combines computational modeling, behavioral experimentation, and brain imaging to study 
     how language is represented and processed in humans and machines.
   </p>
   <p>
