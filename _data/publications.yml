@@ -1,4 +1,11 @@
 # _data/publications.yml
+- title: "Learning meaning from latent patterns in language use"
+  authors: "Andrea G. de Varda"
+  venue: "Nature Reviews Psychology (Journal Club)"
+  year: 2025
+  type: journal
+  url: "https://www.nature.com/articles/s44159-025-00490-6"
+  pdf: "https://www.nature.com/articles/s44159-025-00490-6.pdf"
 
 - title: "Scaling in cognitive modelling: A multilingual approach to human reading times"
   authors: "Andrea G. de Varda, Marco Marelli"
