@@ -22,7 +22,7 @@ permalink: /
     how language is represented and processed in humans and machines.
   </p>
   <p>
-    I received my Ph.D. in Psychology, Linguistics, and Cognitive Neuroscience from the University of Milan–Bicocca, 
+    I received my Ph.D. from the University of Milan–Bicocca, 
     where I worked with <a href="https://www.marcomarelli.net/" target="_blank" rel="noopener">Marco Marelli</a> on multilingual neural language models and their relevance for cognitive science. Before that, I completed a Master’s in Cognitive Science at the University of Trento (CIMeC).
   </p>
 </section>
