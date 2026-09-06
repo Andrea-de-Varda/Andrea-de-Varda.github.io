@@ -1,184 +1,320 @@
 # _data/publications.yml
-- title: "Learning meaning from latent patterns in language use"
-  authors: "Andrea G. de Varda"
-  venue: "Nature Reviews Psychology (Journal Club)"
-  year: 2025
-  type: journal
-  url: "https://www.nature.com/articles/s44159-025-00490-6"
-  pdf: "https://www.nature.com/articles/s44159-025-00490-6.pdf"
-
-- title: "Scaling in cognitive modelling: A multilingual approach to human reading times"
-  authors: "Andrea G. de Varda, Marco Marelli"
-  venue: "ACL (Short Papers)"
-  year: 2023
-  type: conference
-  url: "https://aclanthology.org/2023.acl-short.14/"
-  pdf: "https://aclanthology.org/2023.acl-short.14.pdf"
-
-- title: "Cloze probability, predictability ratings, and computational estimates for 205 English sentences, aligned with existing EEG and reading time data"
-  authors: "Andrea G. de Varda, Marco Marelli, Simona Amenta"
-  venue: "Behavior Research Methods"
-  year: 2024
-  type: journal
-  url: "https://link.springer.com/article/10.3758/s13428-023-02261-8"
-  pdf: "https://link.springer.com/content/pdf/10.3758/s13428-023-02261-8.pdf"
-
-- title: "Data-driven cross-lingual syntax: An agreement study with massively multilingual models"
-  authors: "Andrea G. de Varda, Marco Marelli"
-  venue: "Computational Linguistics"
-  year: 2023
-  type: journal
-  url: "https://direct.mit.edu/coli/article/49/2/261/113396"
-  pdf: "https://watermark02.silverchair.com/coli_a_00472.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzkwggM1BgkqhkiG9w0BBwagggMmMIIDIgIBADCCAxsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMaV_Mp9BhuQC6LVmmAgEQgIIC7B42hScj4mKuxffsc66CgiQoPJcpS9NnWohEvojrvZ3HtLOudFKZFoYAVp_T9t4Vdq__GedIUYjKjFf3upV1QlXjWV51vTr64alzKOHaBqhjlzLH-txXW6zJwSNQGuZocANphMd8SGEyq6pXOQBTdYNrGgDoC1-L9NhCODzFnJjq3tdP00O11VJYQp7tA9GbJjmTIbO2foAtGXT5siq41WTaIxYX-baiLv3igrGr8AN-JroS_W33xK3KcZiWkWh79qElSSDQX9B2hacLctA53PMb8xSZYlmHqGG3oJY24KyAcOew0ZAjQ_PaAtJv6La8WCVRvTo6_tw373vVlEYXWNPgKQNzveKgTzFXnuqyJ8fDdAIESSmojLdafLkuplO4C55QTdCj5NHTY2NMPgpHVQjV4PLGc6Z_5EqbTs83f9j5a3TOne397PorMEw11ydY87NBcwjoNjPsWlhW4QiMLD2x1o455dt9m7q9umjWa-bVhqSxmuNZ8EdM6YI7RurswDVJLyqyVv4IhRzM7kBhj2O1ruACZcIWx6nbrsfGsU0889EQdL6yarVtHGPQ2sJY2GrgNQc39ZOT9O6cnW79KuqL0w6TSXyEa2lwLa6_7eTSzc-tdheK-xnAXE-UlPNZDk1ziMK4fcZ2wprbURHLIcn08LcjXafc2iJH6URzUJvbQU1HffoyO_H2sN5kC06pwxA_1jHBkHPD8Yluf8eIj2IPZMRNF0Xgk0lGiizE9TlYyoFdJYHrkI0fjDpGuLVyhpMONe_LFnzEzYb4e2vJqEQnjvBgNMBi3ecrXGTVnKnfb6Es3Xpo0PvuafK_SIabhsct_rV9i35mF3znb8SkfBfcnT1t-hzMi5HKPz9b6dIlZIqo4u8VCZq13l4cYGBPmqSpoJ6CM4c9YzcFiEeyh1GmVsJH_qMLjBsOn-Kzitf_7PQzd8RdRBKYJ2rnTq58BJEnNCzhVZRNdtLm3vVrcYfnOrcyqggZCT10_ZU"
-
-- title: "The effects of surprisal across languages: Results from native and non-native reading"
-  authors: "Andrea G. de Varda, Marco Marelli"
-  venue: "Findings of ACL AACL-IJCNLP"
-  year: 2022
-  type: conference
-  url: "https://aclanthology.org/2022.findings-aacl.13/"
-  pdf: "https://aclanthology.org/2022.findings-aacl.13.pdf"
-
-- title: "A Cross-Modal and Cross-lingual Study of Iconicity in Language: Insights From Deep Learning"
-  authors: "Andrea G. de Varda, Carlo Strapparava"
-  venue: "Cognitive Science"
-  year: 2022
-  type: journal
-  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13147"
-  pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13147"
-
-- title: "Meaning Beyond Lexicality: Capturing Pseudoword Definitions with Language Models"
-  authors: "Andrea G. de Varda, Davide Gatti, Marco Marelli, Fritz Günther"
-  venue: "Computational Linguistics"
-  year: 2024
-  type: journal
-  url: "https://direct.mit.edu/coli/article/50/4/1313/123792"
-  pdf: "https://watermark02.silverchair.com/coli_a_00527.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzowggM2BgkqhkiG9w0BBwagggMnMIIDIwIBADCCAxwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM-rGiAQq8KSYy7aE5AgEQgIIC7YGx70sFGg-USQY_8qZeNi5v8zO82uqROJnTKwDQPO2H-KOxbgfcRQtdjs20Qc2ILLj_V_1XYrOt4uSi9caIV0hHGVdbGfkooO5pYHrOdx8m3OYZ9IOWp-Tu7YGn_jgP-x0pg-iSXvr8nyAKjor6Ne16dephy-Zc6xl-yRR5CnvcQxY2DsFA-gI_T0AMcBZp7KcaHcmQcQlM8bv2KziOWELGSAhBtTLx95i3rwBSYRtkKnsXxlRx2bM3lyWeh9T9es6W6MUQXWuANsRWmiALGyI2GFrYT9qXysPGlq8ZNGoGuVscRuUXRWIgosnicrXwyjE0EjJhT3vT44WD4f_w0m9ydanbRmSdU-6o4pqrgR2-lpmTOd_j3mkbxB1P03pkHVH3VxLuqcRdBDjVzzGW1OvpsctTdVf5eBIaCbgJD2iDSiccHWajlAzWlTtKvO6h4bTwNXZCsWzxsEJqAUNZOYT5hg4BE9XhqrfbsDOIbuTPY64XoaEU7irMdroQBEwuVDlCBH187m8uGLD9I2Rd6BdGk-IG1O6WskBnMT22jnMyhONPFU2rkunxb8Vd9mElHpxBL9EMimcmQooQDIv6NFSXvWDX1-6QK3YJ6D5KwYQQwS-JhwEoUT8x3Z3pCn0MnNHGCR7HAmZa0WmCb5PMX7PyyBpdeIM0dlr8lXPaWPM14cQUkt-a2qdXsZp0peMtiBpJbkY0yU39f-Oup1IKKcJZmZ2emW9GvI9RTKjxvVYTUHJ4_gBAzI0nTACaFHa4TTY7GAuma5F0cvylONOteV57uCNTZ8_7KMfnThNZ-BnUZGiJCLoUIUyN-Z3FuArAomkiKHOM0nrmc0XyaJ93f-6M747rB1f6pTFXp5fjqtWkC3yrFjMkPScM6XfnHE7fVqFah9Ilio8L_12iUc6A31utUTDJ9kbGTIeEkaDUV9NItWKMz4YdLbC-I_FQAINi8ZM7evgpgGuF8YjCN7tSY8mabgM7VTe5UDpknd_7"
-
-- title: "Locally biased transformers better align with human reading times"
-  authors: "Andrea G. de Varda, Marco Marelli"
-  venue: "CMCL Workshop"
-  year: 2024
-  type: conference
-  url: "https://aclanthology.org/2024.cmcl-1.3/"
-  pdf: "https://aclanthology.org/2024.cmcl-1.3.pdf"
-
-- title: "A layered bridge from sound to meaning: Investigating cross-linguistic phonosemantic correspondences"
-  authors: "Andrea G. de Varda, Carlo Strapparava"
-  venue: "CogSci"
-  year: 2021
-  type: conference
-  url: "https://escholarship.org/uc/item/30n278w5"
-  pdf: "https://escholarship.org/uc/item/30n278w5"
-
-- title: "Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science"
-  authors: "Abel Brodeur, et al. (incl. Andrea G. de Varda)"
-  venue: "CEPR / I4R Discussion Paper"
-  year: 2025
-  type: journal
-  url: "https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf"
-  pdf: "https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf"
-
-- title: "Different types of syntactic agreement recruit the same units within large language models"
-  authors: "Daria Kryvosheieva, Andrea G. de Varda, Evelina Fedorenko, Greta Tuckute"
-  venue: "arxiv"
-  year: 2025
-  type: conference
-  url: "https://arxiv.org/abs/2512.03676"
-  pdf: "https://arxiv.org/pdf/2512.03676"
-
-- title: "Multilingual computational models reveal shared brain responses to 21 languages"
-  authors: "Andrea G. de Varda, Saima Malik-Moraleda, Greta Tuckute, Evelina Fedorenko"
+# Fields: type (preprint|journal|conference|chapter), date (YYYY-MM, informational; entries are rendered in file order, newest first),
+# highlight (selected paper), award, note, reply (PNAS reply, rendered inside the exchange block),
+# abstract (verbatim from publisher), exchange (letters + replies attached to a main paper).
+- title: "Modular Cognitive Architecture Emerges in Large Language Models"
+  authors: "Pengrui Han, Jacob Andreas, Evelina Fedorenko, Andrea Gregor de Varda"
+  venue: "arXiv:2608.13567"
+  year: 2026
+  date: "2026-08"
+  type: "preprint"
+  highlight: true
+  thumb: "/assets/img/research/modularity.png"
+  project: "https://pengrui-han.github.io/LLM_Modularity_Page/"
+  url: "https://arxiv.org/abs/2608.13567"
+  pdf: "https://arxiv.org/pdf/2608.13567"
+  abstract: "The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intelligent systems must be built, or an evolutionary accident specific to biological brains? Here, we test whether a similar organization emerges in Large Language Models—another class of intelligent systems created through a very different optimization process. Using circuit analyses across N=46 tasks spanning four cognitive domains (language, formal reasoning, social reasoning, physical reasoning), we find that LLMs develop a modular architecture that mirrors the human brain: tasks drawing on the same network in humans recruit overlapping neurons in LLMs, whereas tasks drawing on different networks recruit distinct neurons. The convergent emergence of modularity in brains and neural networks suggests that it may be a fundamental property of intelligent systems."
+- title: "Behavioral and brain responses to language reflect different levels of linguistic representation"
+  authors: "Andrea Gregor de Varda, Yevgeni Berzak, Evelina Fedorenko, Roger Levy"
+  venue: "bioRxiv"
+  year: 2026
+  date: "2026-08"
+  type: "preprint"
+  highlight: true
+  thumb: "/assets/img/research/brain_behavior.png"
+  note: "Under review"
+  url: "https://www.biorxiv.org/content/10.64898/2026.08.21.746238v1"
+  pdf: "https://www.biorxiv.org/content/10.64898/2026.08.21.746238v1.full.pdf"
+  abstract: "Human language processing can be studied through both behavior and brain activity, yet it remains unclear whether these two data types reflect sensitivity to the same information. One influential view holds that both behavioral and neural responses are largely determined by processing effort, often estimated by word surprisal together with the context-independent properties of word frequency and length. At the same time, neural responses have been shown to encode richer aspects of linguistic content, including meaning. Here, we use neural network language models to operationalize these alternatives and systematically compare, within the same analytic computational framework, the predictive power of low-dimensional effort-based predictors and high-dimensional embedding representations that encode contextualized linguistic content, including meaning. Across 8 behavioral datasets and 5 neural datasets (4 fMRI and 1 ERP), we find that processing effort captures substantial variance in both behavioral and neural measures of language processing, in line with much previous work. However, for brain responses—but not for behavioral measures—embedding representations carry substantial predictive power beyond the estimates of processing effort. These results therefore suggest that neural data provide access to rich, high-dimensional dynamics of language comprehension, whereas behavioral data reflect a bottlenecking of these dynamics into a small set of theoretically motivated properties of contextualized linguistic input."
+- title: "Investigating Knowledge Transfer Across Interactive Dialogue Games"
+  authors: "Filippo Momentè, Mir Nafis Sharear Shopnil, Andrea Gregor de Varda, Pavel Merinov, Raffaella Bernardi, Oswald Lanz, Alessandro Suglia, Alessandro Torcinovich"
+  venue: "arXiv:2608.23969"
+  year: 2026
+  date: "2026-08"
+  type: "preprint"
+  url: "https://arxiv.org/abs/2608.23969"
+  pdf: "https://arxiv.org/pdf/2608.23969"
+  abstract: "Dialogue games represent a challenging setting where complex cognitive skills are required to accomplish tasks while coordinating with other players. Considering that language represents an interface for both understanding the game rules and executing actions, it is reasonable to assume that training on a specific language game will enhance specific capabilities that might be relevant for other tasks as well. Motivated by this rationale, in this paper, we investigate how knowledge transfers across different dialogue games. We study transferability by finetuning LLM models on games from the clembench suite (Chalamalasetti et al., 2023) and performing two analyses: i) we derive a task-transferability graph using a binary integer optimization program from Zamir et al. (2018), using task performance as the main metric; and ii) we compute task vectors (Ilharco et al., 2022) for each game to study similarities across finetuned models and their task transferability. In our first analysis, we find that some games benefit more from transfer than finetuning, and that the visuospatial family (e.g., exploration games) transfers best. With our task vector analysis instead, we find that similarity-based approaches capture game-role relationships but almost no transferability patterns, suggesting that more complex metrics are required."
+- title: "Multilingual computational models capture a shared meaning component in brain responses across 21 languages"
+  authors: "Andrea Gregor de Varda, Saima Malik-Moraleda, Greta Tuckute, Evelina Fedorenko"
   venue: "bioRxiv"
   year: 2025
-  type: journal
-  url: "https://www.biorxiv.org/content/10.1101/2025.02.01.636044v1"
-  pdf: "https://www.biorxiv.org/content/10.1101/2025.02.01.636044v1.full.pdf+html"
-
-- title: "The Italian Crowdsourcing Project: Visual word recognition times for 130,495 Italian words"
-  authors: "Simona Amenta, Andrea G. de Varda, Pawel Mandera, Emmanuel Keuleers, Marc Brysbaert, Marco Marelli"
-  venue: "Behavior Research Methods"
+  date: "2025-02"
+  type: "preprint"
+  highlight: true
+  thumb: "/assets/img/research/brain.png"
+  note: "Under review"
+  url: "https://www.biorxiv.org/content/10.1101/2025.02.01.636044v3"
+  pdf: "https://www.biorxiv.org/content/10.1101/2025.02.01.636044v3.full.pdf"
+  abstract: "At the heart of language neuroscience lies a fundamental question: How does the brain process the rich variety of languages? Multilingual neural network models offer a way to answer this question by representing linguistic content across languages in a shared space. Leveraging these advances, we evaluated the similarity of linguistic representations in speakers of 21 languages. We combined existing (12 languages across 4 language families) and newly collected fMRI data (9 languages across 4 families) to test encoding models predicting brain activity in the language network using representations from multilingual models. Model representations reliably predicted brain responses within each language. Critically, encoding models can be transferred zero-shot across languages, so that a model trained to predict brain activity in a set of languages can account for responses in a held-out language. These results imply a shared cross-lingual component, which appears to be related to a shared meaning space."
+- title: "AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science"
+  authors: "Abel Brodeur, David Valenta, Alexandru Marcoci, … Andrea Gregor de Varda, … (272 authors)"
+  venue: "Proceedings of the National Academy of Sciences, 123(22), e2524747123"
+  year: 2026
+  date: "2026-05"
+  type: "journal"
+  url: "https://www.pnas.org/doi/10.1073/pnas.2524747123"
+  pdf: "https://eprints.whiterose.ac.uk/id/eprint/241548/1/brodeur-et-al-2026-ai-assisted-teams-outperform-ai-led-teams-but-not-human-only-teams-in-assessing-research-1.pdf"
+  abstract: "Large Language Models (LLMs) such as ChatGPT are transforming how scientists conduct and validate research, offering promise as tools to improve scientific reproducibility. However, computational reproducibility and error detection remain expensive and labor-intensive. We experimentally test how collaboration between researchers and LLM assistants influences the reproduction of quantitative social science findings across different levels of AI autonomy. We randomly assigned 288 researchers to 103 teams working under three conditions: human-only, AI-assisted (using ChatGPT as a collaborative tool), or AI-led (ChatGPT operating with minimal human oversight). Teams reproduced published results from leading social science journals, detected coding errors, and proposed robustness checks. Human-only and AI-assisted teams achieved comparable reproduction rates (94% vs. 91%) and performed similarly on most outcomes, except human-only teams identified significantly more major coding errors. Both substantially outperformed AI-led teams, which achieved only a 37% reproduction rate, detected fewer errors across all categories, proposed weaker robustness checks, and required more time. This autonomous approach, however, likely represents only a lower bound of AI capabilities. Despite rapid model advances, expert human judgment currently remains indispensable for reliable empirical verification. While AI assistance did not degrade most outcomes, it provided no measurable advantages and was associated with reduced detection of major errors. However, the 37% autonomous reproduction rate indicates that AI could provide value in settings where scale or cost constraints preclude human review of papers, even though general-purpose LLMs offer no immediate advantages for human-supervised verification."
+- title: "Reply to Hu: Reasoning traces need not be faithful to account for the cost of human thinking"
+  authors: "Andrea Gregor de Varda, Ferdinando Pio D'Elia, Hope Kean, Andrew Lampinen, Evelina Fedorenko"
+  venue: "Proceedings of the National Academy of Sciences, 123(17), e2606498123"
+  year: 2026
+  date: "2026-04"
+  type: "journal"
+  reply: true
+  url: "https://www.pnas.org/doi/10.1073/pnas.2606498123"
+  pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13123893/"
+- title: "Reply to Vankov et al.: Reasoning traces are linked to accuracy and capture key dimensions of problem complexity"
+  authors: "Andrea Gregor de Varda, Ferdinando Pio D'Elia, Hope Kean, Andrew Lampinen, Evelina Fedorenko"
+  venue: "Proceedings of the National Academy of Sciences, 123(12), e2603574123"
+  year: 2026
+  date: "2026-03"
+  type: "journal"
+  reply: true
+  url: "https://www.pnas.org/doi/10.1073/pnas.2603574123"
+  pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011927/"
+- title: "Reply to Dujmović: The alignment in cost between human and model reasoning is an empirical phenomenon worth explaining"
+  authors: "Andrea Gregor de Varda, Ferdinando Pio D'Elia, Hope Kean, Andrew Lampinen, Evelina Fedorenko"
+  venue: "Proceedings of the National Academy of Sciences, 123(4), e2536153123"
+  year: 2026
+  date: "2026-01"
+  type: "journal"
+  reply: true
+  url: "https://www.pnas.org/doi/10.1073/pnas.2536153123"
+  pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12846844/"
+- title: "IconicITA: Iconicity ratings of the Italian affective lexicon"
+  authors: "Andrea Gregor de Varda, Tommaso Lamarra, Andrea Amelio Ravelli, Chiara Saponaro, Beatrice Giustolisi, Marianna Bolognesi"
+  venue: "PLOS One, 20(12), e0337947"
   year: 2025
-  type: journal
-  url: "https://link.springer.com/article/10.3758/s13428-024-02548-4"
+  date: "2025-12"
+  type: "journal"
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337947"
+  pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0337947&type=printable"
+  abstract: "Iconicity, defined as the potential of linguistic signs to resemble properties or features of their referents, is increasingly recognized as a general property of language. One common approach for quantifying iconicity is to collect iconicity ratings. Although iconicity datasets have been developed for several languages, no comprehensive dataset of iconicity ratings is currently available for Italian. The current study presents IconicITA, the first dataset of Italian iconicity ratings for the 1,121 words of the Italian adaptation of Affective Norms for English Words (ANEW). Ratings were collected from both Italian native speakers (L1) and English native speakers with Italian as a second language (L2). Including L2 participants allowed us to contribute to the debate on whether iconicity ratings genuinely measure form-meaning resemblance, rather than exclusively reflecting semantic properties. We showed that L1 Italian iconicity ratings are positively associated with perceptual strength in the auditory and haptic modalities, and with specificity ratings. Conversely, we found a negative correlation between iconicity and concreteness, age of acquisition, word frequency, and letter frequency. In general, the relationship between Italian iconicity norms and various psycholinguistic variables largely replicated previous findings in the literature on iconicity. Considering L2 data, the ratings provided by L2 speakers correlated more strongly with the Italian L1 data compared to the translation-equivalent English L1 data. This finding suggests that participants' judgments were influenced not only by the semantic information of the words but also by language-specific form-level properties. We take this result as evidence of the validity of iconicity ratings to operationalize the degree of resemblance between words' form and meaning."
+- id: "cost-of-thinking"
+  title: "The cost of thinking is similar between large reasoning models and humans"
+  authors: "Andrea Gregor de Varda, Ferdinando Pio D'Elia, Hope Kean, Andrew Lampinen, Evelina Fedorenko"
+  venue: "Proceedings of the National Academy of Sciences, 122(47), e2520077122"
+  year: 2025
+  date: "2025-11"
+  type: "journal"
+  highlight: true
+  thumb: "/assets/img/research/full_scatter.svg"
+  url: "https://www.pnas.org/doi/10.1073/pnas.2520077122"
+  pdf: "https://www.evlab.mit.edu/s/deVarda_et_al_2025_PNAS.pdf"
+  media:
+    - name: "MIT News"
+      url: "https://news.mit.edu/2025/cost-of-thinking-1119"
+    - name: "TechXplore"
+      url: "https://techxplore.com/news/2025-11-aspects-human-brains.html"
+    - name: "Mirage News"
+      url: "https://www.miragenews.com/cost-of-thinking-1573966/"
+    - name: "El Periódico (ES)"
+      url: "https://www.elperiodico.com/es/tendencias21/20251121/nuevos-modelos-ia-afrontan-dilemas-123980002"
+    - name: "Bug (HR)"
+      url: "https://www.bug.hr/istrazivanja/cijena-razmisljanja-paralela-izmedju-ljudi-i-umjetne-inteligencije-55499"
+  abstract: "Do neural network models capture the cognitive demands of human reasoning? Across seven reasoning tasks, we show that the length of the chain-of-thought generated by large reasoning models predicts human reaction times both within tasks—tracking item-level difficulty—and across tasks—capturing broader differences in cognitive demands. This model-to-human alignment shows that out-of-the-box reasoning models reflect core features underlying problem and task complexity in human cognition, without requiring any built-in symbolic mechanisms."
+  exchange:
+    - letter_title: "No deep insights into the alignment between human and deep learning reasoning processes: Thoughts on de Varda et al. (2025)"
+      letter_authors: "Marin Dujmović"
+      letter_url: "https://www.pnas.org/doi/10.1073/pnas.2533685123"
+      letter_venue: "PNAS 123(4), e2533685123"
+      reply_title: "Reply to Dujmović: The alignment in cost between human and model reasoning is an empirical phenomenon worth explaining"
+      reply_url: "https://www.pnas.org/doi/10.1073/pnas.2536153123"
+      reply_venue: "PNAS 123(4), e2536153123"
+      date: "Jan 2026"
+    - letter_title: "Correlations without causation do not support claims of human–LLM reasoning alignment"
+      letter_authors: "Ivan I. Vankov, Federico Adolfi, Rachel F. Heaton, Guillermo Puebla, Jeffrey S. Bowers"
+      letter_url: "https://www.pnas.org/doi/10.1073/pnas.2536362123"
+      letter_venue: "PNAS 123(12), e2536362123"
+      reply_title: "Reply to Vankov et al.: Reasoning traces are linked to accuracy and capture key dimensions of problem complexity"
+      reply_url: "https://www.pnas.org/doi/10.1073/pnas.2603574123"
+      reply_venue: "PNAS 123(12), e2603574123"
+      date: "Mar 2026"
+    - letter_title: "“Thinking traces” in large reasoning models: Cognitive cost or performative scaffolding?"
+      letter_authors: "Yueqing Hu"
+      letter_url: "https://www.pnas.org/doi/10.1073/pnas.2604554123"
+      letter_venue: "PNAS 123(17), e2604554123"
+      reply_title: "Reply to Hu: Reasoning traces need not be faithful to account for the cost of human thinking"
+      reply_url: "https://www.pnas.org/doi/10.1073/pnas.2606498123"
+      reply_venue: "PNAS 123(17), e2606498123"
+      date: "Apr 2026"
+- title: "Learning meaning from latent patterns in language use"
+  authors: "Andrea Gregor de Varda"
+  venue: "Nature Reviews Psychology, 4(10), 623"
+  year: 2025
+  date: "2025-09"
+  type: "journal"
+  url: "https://www.nature.com/articles/s44159-025-00490-6"
+- title: "High variability in LLMs' analogical reasoning"
+  authors: "Andrea Gregor de Varda, Chiara Saponaro, Marco Marelli"
+  venue: "Nature Human Behaviour, 9(7), 1339-1341"
+  year: 2025
+  date: "2025-06"
+  type: "journal"
+  url: "https://www.nature.com/articles/s41562-025-02224-3"
+- title: "A distributional model of concepts grounded in the spatial organization of objects"
+  authors: "Andrea Gregor de Varda, Marco Petilli, Marco Marelli"
+  venue: "Journal of Memory and Language, 142, 104624"
+  year: 2025
+  date: "2025-03"
+  type: "journal"
+  highlight: true
+  thumb: "/assets/img/research/semantic_scape.png"
+  url: "https://doi.org/10.1016/j.jml.2025.104624"
+  pdf: "https://www.sciencedirect.com/science/article/pii/S0749596X25000178/pdfft"
+  abstract: "Data-driven models of concepts are gaining popularity in Psychology and Cognitive Science. Distributional semantic models represent word meanings as abstract word co-occurrence patterns, and excel at capturing human meaning intuitions about conceptual relationships; however, they lack the explicit links to the physical world that humans acquire through perception. Computer vision neural networks, on the other hand, can produce representations of visually-grounded concepts, but they do not support the extraction of information about the relationships between objects. To bridge the gap between distributional semantic models and computer vision networks, we introduce SemanticScape, a model of semantic concepts grounded in the visual relationships between objects in natural images. The model captures the latent statistics of the spatial organization of objects in the visual environment. Its implementation is based on the calculation of the summed Euclidean distances between all object pairs in visual scenes, which are then abstracted by means of dimensionality reduction. We validate our model against human explicit intuitions on semantic and visual similarity, relatedness, analogical reasoning, and several semantic and visual implicit processing measurements. Our results show that SemanticScape explains variance in human responses in the semantic tasks above and beyond what can be accounted for by standard distributional semantic models and convolutional neural networks; however, it is not predictive of human performance in implicit perceptual tasks. Our findings highlight that implicit information about the objects' spatial distribution in the environment has a specific impact on semantic processing, demonstrating the importance of this often neglected experiential source."
+- title: "Cracking arbitrariness: A data-driven study of auditory iconicity in spoken English"
+  authors: "Andrea Gregor de Varda, Marco Marelli"
+  venue: "Psychonomic Bulletin & Review, 32, 1425-1442"
+  year: 2025
+  date: "2025-01"
+  type: "journal"
+  url: "https://doi.org/10.3758/s13423-024-02630-0"
+  pdf: "https://link.springer.com/content/pdf/10.3758/s13423-024-02630-0.pdf"
+  abstract: "Auditory iconic words display a phonological profile that imitates their referents' sounds. Traditionally, those words are thought to constitute a minor portion of the auditory lexicon. In this article, we challenge this assumption by assessing the pervasiveness of onomatopoeia in the English auditory vocabulary through a novel data-driven procedure. We embed spoken words and natural sounds into a shared auditory space through (a) a short-time Fourier transform, (b) a convolutional neural network trained to classify sounds, and (c) a network trained on speech recognition. Then, we employ the obtained vector representations to measure their objective auditory resemblance. These similarity indexes show that imitation is not limited to some circumscribed semantic categories, but instead can be considered as a widespread mechanism underlying the structure of the English auditory vocabulary. We finally empirically validate our similarity indexes as measures of iconicity against human judgments."
+- title: "The Italian Crowdsourcing Project: Visual word recognition times for 130,495 Italian words"
+  authors: "Simona Amenta, Andrea Gregor de Varda, Pawel Mandera, Emmanuel Keuleers, Marc Brysbaert, Marco Marelli"
+  venue: "Behavior Research Methods, 57(1), 26"
+  year: 2025
+  date: "2024-12"
+  type: "journal"
+  url: "https://doi.org/10.3758/s13428-024-02548-4"
   pdf: "https://link.springer.com/content/pdf/10.3758/s13428-024-02548-4.pdf"
-
-- title: "The emergence of semantic units in massively multilingual models"
-  authors: "Andrea G. de Varda, Marco Marelli"
-  venue: "LREC-COLING"
+  abstract: "Despite being largely spoken and studied by language and cognitive scientists, Italian lacks large resources of language processing data. The Italian Crowdsourcing Project (ICP) is a dataset of word recognition times and accuracy including responses to 130,465 words, which makes it the largest dataset of its kind item-wise. The data were collected in an online word knowledge task in which over 156,000 native speakers of Italian took part. We validated the ICP dataset by (1) showing that ICP reaction times correlate strongly (r = .78) with lexical decision latencies collected in a traditional lab experiment, (2) showing that the effect of major psycholinguistic variables (e.g., frequency, length, etc.) can be replicated in this dataset, and (3) replicating the effect of word prevalence, which we compute here for the first time for Italian. Given the inclusion of many inflectional forms of verbs, adjectives, and nouns, we further showcase the potential of this dataset by exploring two phenomena (inflectional entropy in verb paradigms and the clitic effect in isolated word recognition) that build on the peculiar properties of Italian. In this paper we present the ICP resource and release response times, accuracy, and prevalence estimates for all the words included."
+- title: "Meaning Beyond Lexicality: Capturing Pseudoword Definitions with Language Models"
+  authors: "Andrea Gregor de Varda, Daniele Gatti, Marco Marelli, Fritz Günther"
+  venue: "Computational Linguistics, 50(4), 1313-1343"
   year: 2024
-  type: conference
+  date: "2024-12"
+  type: "journal"
+  url: "https://doi.org/10.1162/coli_a_00527"
+  pdf: "https://aclanthology.org/2024.cl-4.4.pdf"
+  abstract: "Pseudowords such as \"knackets\" or \"spechy\"—letter strings that are consistent with the orthotactical rules of a language but do not appear in its lexicon—are traditionally considered to be meaningless, and used as such in empirical studies. However, recent studies that show specific semantic patterns associated with these words as well as semantic effects on human pseudoword processing have cast doubt on this view. While these studies suggest that pseudowords have meanings, they provide only extremely limited insight as to whether humans are able to ascribe explicit and declarative semantic content to unfamiliar word forms. In the present study, we utilized an exploratory-confirmatory study design to examine this question. In a first exploratory study, we started from a pre-existing dataset of words and pseudowords alongside human-generated definitions for these items. Using 18 different language models, we showed that the definitions actually produced for (pseudo)words were closer to their respective (pseudo)words than the definitions for the other items. Based on these initial results, we conducted a second, pre-registered, high-powered confirmatory study collecting a new, controlled set of (pseudo)word interpretations. This second study confirmed the results of the first one. Taken together, these findings support the idea that meaning construction is supported by a flexible form-to-meaning mapping system based on statistical regularities in the language environment that can accommodate novel lexical entries as soon as they are encountered."
+- title: "Cloze probability, predictability ratings, and computational estimates for 205 English sentences, aligned with existing EEG and reading time data"
+  authors: "Andrea Gregor de Varda, Marco Marelli, Simona Amenta"
+  venue: "Behavior Research Methods, 56(5), 5190-5213"
+  year: 2024
+  date: "2023-10"
+  type: "journal"
+  url: "https://doi.org/10.3758/s13428-023-02261-8"
+  pdf: "https://link.springer.com/content/pdf/10.3758/s13428-023-02261-8.pdf"
+  abstract: "We release a database of cloze probability values, predictability ratings, and computational estimates for a sample of 205 English sentences (1726 words), aligned with previously released word-by-word reading time data (both self-paced reading and eye-movement records; Frank et al., Behavior Research Methods, 45(4), 1182–1190. 2013) and EEG responses (Frank et al., Brain and Language, 140, 1–11. 2015). Our analyses show that predictability ratings are the best predictors of the EEG signal (N400, P600, LAN) self-paced reading times, and eye movement patterns, when spillover effects are taken into account. The computational estimates are particularly effective at explaining variance in the eye-tracking data without spillover. Cloze probability estimates have decent overall psychometric accuracy and are the best predictors of early fixation patterns (first fixation duration). Our results indicate that the choice of the best measurement of word predictability in context critically depends on the processing index being considered."
+- title: "Data-driven Cross-lingual Syntax: An Agreement Study with Massively Multilingual Models"
+  authors: "Andrea Gregor de Varda, Marco Marelli"
+  venue: "Computational Linguistics, 49(2), 261-299"
+  year: 2023
+  date: "2023-06"
+  type: "journal"
+  url: "https://doi.org/10.1162/coli_a_00472"
+  pdf: "https://aclanthology.org/2023.cl-2.1.pdf"
+  abstract: "Massively multilingual models such as mBERT and XLM-R are increasingly valued in Natural Language Processing research and applications, due to their ability to tackle the uneven distribution of resources available for different languages. The models' ability to process multiple languages relying on a shared set of parameters raises the question of whether the grammatical knowledge they extracted during pre-training can be considered as a data-driven cross-lingual grammar. The present work studies the inner workings of mBERT and XLM-R in order to test the cross-lingual consistency of the individual neural units that respond to a precise syntactic phenomenon, that is, number agreement, in five languages (English, German, French, Hebrew, Russian). We found that there is a significant overlap in the latent dimensions that encode agreement across the languages we considered. This overlap is larger (a) for long- vis-à-vis short-distance agreement and (b) when considering XLM-R as compared to mBERT, and peaks in the intermediate layers of the network. We further show that a small set of syntax-sensitive neurons can capture agreement violations across languages; however, their contribution is not decisive in agreement processing."
+- title: "A Cross-Modal and Cross-lingual Study of Iconicity in Language: Insights From Deep Learning"
+  authors: "Andrea Gregor de Varda, Carlo Strapparava"
+  venue: "Cognitive Science, 46(6), e13147"
+  year: 2022
+  date: "2022-06"
+  type: "journal"
+  highlight: true
+  thumb: "/assets/img/research/multilingual.jpg"
+  url: "https://doi.org/10.1111/cogs.13147"
+  pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/cogs.13147"
+  abstract: "The present paper addresses the study of non-arbitrariness in language within a deep learning framework. We present a set of experiments aimed at assessing the pervasiveness of different forms of non-arbitrary phonological patterns across a set of typologically distant languages. Different sequence-processing neural networks are trained in a set of languages to associate the phonetic vectorization of a set of words to their sensory (Experiment 1), semantic (Experiment 2), and word-class representations (Experiment 3). The models are then tested, without further training, in a set of novel instances in a language belonging to a different language family, and their performance is compared with a randomized baseline. We show that the three cross-domain mappings can be successfully transferred across languages and language families, suggesting that the phonological structure of the lexicon is pervaded with language-invariant cues about the words' meaning and their syntactic classes."
+- title: "Different types of syntactic agreement recruit the same units within large language models"
+  authors: "Daria Kryvosheieva, Andrea Gregor de Varda, Evelina Fedorenko, Greta Tuckute"
+  venue: "ACL 2026 (Long Papers), 209-227"
+  year: 2026
+  date: "2026-07"
+  type: "conference"
+  url: "https://aclanthology.org/2026.acl-long.7/"
+  pdf: "https://aclanthology.org/2026.acl-long.7.pdf"
+  abstract: "Large language models (LLMs) can reliably distinguish grammatical from ungrammatical sentences, but how grammatical knowledge is represented within the model remains an open question. We investigate whether different syntactic phenomena recruit shared or distinct components in LLMs. Using a functional localization approach inspired by cognitive neuroscience, we identify the LLM units most responsive to 67 English syntactic phenomena in seven open-weight models. These units are consistently recruited across sentence instances and causally support model performance. Critically, different types of syntactic agreement (e.g., subject-verb, anaphor, determiner-noun) recruit overlapping sets of units, suggesting that agreement constitutes a meaningful functional category in LLMs. This pattern holds in Russian and Chinese, and further, across languages: in a cross-lingual analysis of 57 languages, syntactically similar languages share more units for subject-verb agreement. Taken together, these findings reveal that syntactic agreement—a critical marker of syntactic dependencies—constitutes a meaningful category within LLMs' representational spaces."
+- title: "Locally Biased Transformers Better Align with Human Reading Times"
+  authors: "Andrea Gregor de Varda, Marco Marelli"
+  venue: "Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2024), 30-36"
+  year: 2024
+  date: "2024-08"
+  type: "conference"
+  url: "https://aclanthology.org/2024.cmcl-1.3/"
+  pdf: "https://aclanthology.org/2024.cmcl-1.3.pdf"
+  abstract: "Recent psycholinguistic theories emphasize the interdependence between linguistic expectations and memory limitations in human language processing. We modify the self-attention mechanism of a transformer model to simulate a lossy context representation, biasing the model's predictions to give additional weight to the local linguistic context. We show that surprisal estimates from our locally-biased model generally provide a better fit to human psychometric data, underscoring the sensitivity of the human parser to local linguistic information."
+- title: "The Emergence of Semantic Units in Massively Multilingual Models"
+  authors: "Andrea Gregor de Varda, Marco Marelli"
+  venue: "LREC-COLING 2024, 15910-15921"
+  year: 2024
+  date: "2024-05"
+  type: "conference"
   url: "https://aclanthology.org/2024.lrec-main.1382/"
   pdf: "https://aclanthology.org/2024.lrec-main.1382.pdf"
-
-- title: "Multilingualism encourages recursion: a transfer study with mBERT"
-  authors: "Andrea G. de Varda, Roberto Zamparelli"
-  venue: "SIGTYP Workshop"
+  abstract: "Massively multilingual models can process text in several languages relying on a shared set of parameters; however, little is known about the encoding of multilingual information in single network units. In this work, we study how two semantic variables, namely valence and arousal, are processed in the latent dimensions of mBERT and XLM-R across 13 languages. We report a significant cross-lingual overlap in the individual neurons processing affective information, which is more pronounced when considering XLM-R vis-à-vis mBERT. Furthermore, we uncover a positive relationship between cross-lingual alignment and performance, where the languages that rely more heavily on a shared cross-lingual neural substrate achieve higher performance scores in semantic encoding."
+- title: "Scaling in Cognitive Modelling: a Multilingual Approach to Human Reading Times"
+  authors: "Andrea Gregor de Varda, Marco Marelli"
+  venue: "ACL 2023 (Short Papers), 139-149"
+  year: 2023
+  date: "2023-07"
+  type: "conference"
+  award: "Outstanding Paper Award, ACL 2023"
+  url: "https://aclanthology.org/2023.acl-short.14/"
+  pdf: "https://aclanthology.org/2023.acl-short.14.pdf"
+  abstract: "Neural language models are increasingly valued in computational psycholinguistics, due to their ability to provide conditional probability distributions over the lexicon that are predictive of human processing times. Given the vast array of available models, it is of both theoretical and methodological importance to assess what features of a model influence its psychometric quality. In this work we focus on parameter size, showing that larger Transformer-based language models generate probabilistic estimates that are less predictive of early eye-tracking measurements reflecting lexical access and early semantic integration. However, relatively bigger models show an advantage in capturing late eye-tracking measurements that reflect the full semantic and syntactic integration of a word into the current language context. Our results are supported by eye movement data in ten languages and consider four models, spanning from 564M to 4.5B parameters."
+- title: "The Effects of Surprisal across Languages: Results from Native and Non-native Reading"
+  authors: "Andrea Gregor de Varda, Marco Marelli"
+  venue: "Findings of the ACL: AACL-IJCNLP 2022, 138-144"
   year: 2022
-  type: conference
+  date: "2022-11"
+  type: "conference"
+  url: "https://aclanthology.org/2022.findings-aacl.13/"
+  pdf: "https://aclanthology.org/2022.findings-aacl.13.pdf"
+  abstract: "It is well known that the surprisal of an upcoming word, as estimated by language models, is a solid predictor of reading times (Smith and Levy, 2013). However, most of the studies that support this view are based on English and few other Germanic languages, leaving an open question as to the cross-lingual generalizability of such findings. Moreover, they tend to consider only the best-performing eye-tracking measure, which might conflate the effects of predictive and integrative processing. Furthermore, it is not clear whether prediction plays a role in non-native language processing in bilingual individuals (Grüter et al., 2014). We approach these problems at large scale, extracting surprisal estimates from mBERT, and assessing their psychometric predictive power on the MECO corpus, a cross-linguistic dataset of eye movement behavior in reading (Siegelman et al., 2022; Kuperman et al., 2020). We show that surprisal is a strong predictor of reading times across languages and fixation measurements, and that its effects in L2 are weaker with respect to L1."
+- title: "Multilingualism Encourages Recursion: a Transfer Study with mBERT"
+  authors: "Andrea Gregor de Varda, Roberto Zamparelli"
+  venue: "Workshop on Computational Typology and Multilingual NLP (SIGTYP), NAACL 2022"
+  year: 2022
+  date: "2022-07"
+  type: "conference"
   url: "https://aclanthology.org/2022.sigtyp-1.1/"
   pdf: "https://aclanthology.org/2022.sigtyp-1.1.pdf"
-
-- title: "Cracking arbitrariness: A data-driven study of auditory iconicity in spoken English"
-  authors: "Andrea G. de Varda, Marco Marelli"
-  venue: "Psychonomic Bulletin & Review"
-  year: 2025
-  type: journal
-  url: "https://link.springer.com/article/10.3758/s13423-024-02630-0"
-  pdf: "https://link.springer.com/content/pdf/10.3758/s13423-024-02630-0.pdf"
-
+  abstract: "The present work constitutes an attempt to investigate the relational structures learnt by mBERT, a multilingual transformer-based network, with respect to different cross-linguistic regularities proposed in the fields of theoretical and quantitative linguistics. We pursued this objective by relying on a zero-shot transfer experiment, evaluating the model's ability to generalize its native task to artificial languages that could either respect or violate some proposed language universal, and comparing its performance to the output of BERT, a monolingual model with an identical configuration. We created four artificial corpora through a Probabilistic Context-Free Grammar by manipulating the distribution of tokens and the structure of their dependency relations. We showed that while both models were favoured by a Zipfian distribution of the tokens and by the presence of head-dependency type structures, the multilingual transformer network exhibited a stronger reliance on hierarchical cues compared to its monolingual counterpart."
 - title: "Phonovisual Biases in Language: Is the Lexicon Tied to the Visual World?"
-  authors: "Andrea G. de Varda, Carlo Strapparava"
-  venue: "IJCAI"
+  authors: "Andrea Gregor de Varda, Carlo Strapparava"
+  venue: "IJCAI 2021, 643-649"
   year: 2021
-  type: conference
+  date: "2021-08"
+  type: "conference"
   url: "https://www.ijcai.org/proceedings/2021/89"
   pdf: "https://www.ijcai.org/proceedings/2021/0089.pdf"
-
+  abstract: "The present paper addresses the study of cross-linguistic and cross-modal iconicity within a deep learning framework. An LSTM-based Recurrent Neural Network is trained to associate the phonetic representation of a concrete word, encoded as a sequence of feature vectors, to the visual representation of its referent, expressed as an HCNN-transformed image. The processing network is then tested, without further training, in a language that does not appear in the training set and belongs to a different language family. The performance of the model is evaluated through a comparison with a randomized baseline; we show that such an imaginative network is capable of extracting language-independent generalizations in the mapping from linguistic sounds to visual features, providing empirical support for the hypothesis of a universal sound-symbolic substrate underlying all languages."
+- title: "A Layered Bridge from Sound to Meaning: Investigating Cross-linguistic Phonosemantic Correspondences"
+  authors: "Andrea Gregor de Varda, Carlo Strapparava"
+  venue: "CogSci 2021"
+  year: 2021
+  date: "2021-07"
+  type: "conference"
+  url: "https://escholarship.org/uc/item/30n278w5"
+  pdf: "https://escholarship.org/content/qt30n278w5/qt30n278w5.pdf"
+  abstract: "The present paper addresses the study of cross-linguistic phonosemantic correspondences within a deep learning framework. An LSTM-based Recurrent Neural Network is trained to associate the phonetic representation of a word, encoded as a sequence of feature vectors, to its corresponding semantic representation in a multilingual and cross-family vector space. The processing network is then tested, without further training, in a language that does not appear in the training set and belongs to a different language family. The performance of the model is evaluated through a comparison with a monolingual and mono-family upper bound and a randomized baseline. After the assessment of the network's performance, the distribution of phonosemantic properties in the lexicon is inspected in relation to different (psycho)linguistic variables, showing a link between lexical non-arbitrariness and semantic, syntactic, pragmatic, and developmental factors."
 - title: "Phonological Layers of Meaning: A Computational Exploration of Sound Iconicity"
-  authors: "Andrea G. de Varda, Carlo Strapparava"
-  venue: "CLiC-it (CEUR)"
+  authors: "Andrea Gregor de Varda, Carlo Strapparava"
+  venue: "CLiC-it 2020 (CEUR Vol. 2769)"
   year: 2020
-  type: conference
+  date: "2020-12"
+  type: "conference"
+  award: "Best paper nomination, CLiC-it 2020"
   url: "https://ceur-ws.org/Vol-2769/paper_25.pdf"
   pdf: "https://ceur-ws.org/Vol-2769/paper_25.pdf"
-
-- title: "High variability in LLMs’ analogical reasoning"
-  authors: "Andrea G. de Varda, Chiara Saponaro, Marco Marelli"
-  venue: "Nature Human Behaviour (Correspondence)"
-  year: 2025
-  type: journal
-  url: "https://www.nature.com/articles/s41562-025-02224-3"
-  pdf: "https://www.nature.com/articles/s41562-025-02224-3.pdf"   # paywalled, no OA version
-
-- title: "A distributional model of concepts grounded in the spatial organization of objects"
-  authors: "Andrea G. de Varda, Marco Petilli, Marco Marelli"
-  venue: "Journal of Memory and Language"
-  year: 2025
-  type: journal
-  url: "https://www.sciencedirect.com/science/article/pii/S0749596X25000178"
-  pdf: "https://www.sciencedirect.com/science/article/pii/S0749596X25000178/pdfft?md5=c227546dae93b58d3ee5c55af0d5ef26&pid=1-s2.0-S0749596X25000178-main.pdf" # direct pdf
-
+  abstract: "The present paper aims to investigate the nature and the extent of cross-linguistic phonosemantic correspondences within a computational framework. An LSTM-based Recurrent Neural Network is trained to associate the phonetic representation of a word, encoded as a sequence of feature vectors, to its corresponding semantic representation in a multilingual vector space. The processing network is tested, without further training, in a language that does not appear in the training set. The performance of the multilingual model is compared with a monolingual upper bound and a randomized baseline. After the quantitative evaluation of its performance, a qualitative analysis is carried out on the network's most effective predictions, showing an inhomogeneous distribution of phonosemantic information in the lexicon, influenced by semantic, syntactic, and pragmatic factors."
 - title: "The BERT Model Family and Encoder-Only Transformers"
-  authors: "M. Ciapparelli, Andrea G. de Varda"
-  venue: "Elsevier Reference Module"
+  authors: "Marco Ciapparelli, Andrea Gregor de Varda"
+  venue: "International Encyclopedia of Language and Linguistics (3rd ed.), Elsevier, 689-694"
   year: 2025
-  type: conference
-  url: "https://www.researchgate.net/publication/390548039_The_BERT_Model_Family_and_Encoder-Only_Transformers"
-  pdf: "https://www.researchgate.net/publication/390548039_The_BERT_Model_Family_and_Encoder-Only_Transformers"
-
+  date: "2025-04"
+  type: "chapter"
+  url: "https://doi.org/10.1016/B978-0-323-95504-1.00507-X"
 - title: "Word Semantic Similarity Norms"
-  authors: "Andrea G. de Varda, M. Ciapparelli"
-  venue: "Elsevier Reference Module"
+  authors: "Andrea Gregor de Varda, Marco Ciapparelli"
+  venue: "International Encyclopedia of Language and Linguistics (3rd ed.), Elsevier, 780-784"
   year: 2024
-  type: conference
-  url: "https://www.researchgate.net/publication/385872436_Word_Semantic_Similarity_Norms"
-  pdf: "https://www.researchgate.net/publication/385872436_Word_Semantic_Similarity_Norms"
-
-- title: "The cost of thinking is similar between large reasoning models and humans"
-  authors: "Andrea G. de Varda, Ferdinando Pio D’Elia, Andrew Lampinen, Evelina Fedorenko"
-  venue: "PNAS"
-  year: 2025
-  type: journal
-  url: "https://www.pnas.org/doi/10.1073/pnas.2520077122"
-  pdf: "https://www.pnas.org/doi/epdf/10.1073/pnas.2520077122"
+  date: "2024-11"
+  type: "chapter"
+  url: "https://doi.org/10.1016/B978-0-323-95504-1.00176-9"

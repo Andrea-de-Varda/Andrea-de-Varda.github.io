@@ -1,11 +1,20 @@
 title: Andrea de Varda
-description: Personal website and research updates
+description: "Andrea de Varda is a postdoctoral fellow at MIT studying language and reasoning in humans and large language models, combining computational modeling, behavioral experiments, and brain imaging."
 url: https://andrea-de-varda.github.io
 baseurl: ""
 markdown: kramdown
-timezone: Europe/Paris
+timezone: America/New_York
+social:
+  name: Andrea Gregor de Varda
+  links:
+    - https://scholar.google.com/citations?user=Iwm9mC0AAAAJ&hl=en
+    - https://github.com/Andrea-de-Varda
+    - https://x.com/devarda_a
+    - https://bsky.app/profile/andreadevarda.bsky.social
 plugins:
-  - jekyll-seo-tag
   - jekyll-sitemap
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
