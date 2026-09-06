@@ -157,10 +157,18 @@ footer{border-top:1px solid var(--border);margin-top:36px;padding:18px 0;color:v
   .nav{padding:10px 18px;flex-wrap:wrap;gap:4px 8px}
   .menu{width:100%;gap:2px;margin-left:-10px}
   .menu a{padding:6px 10px;font-size:15px}
-  .hero{padding:20px 18px}
+  .hero{padding:16px 16px;gap:12px;margin:16px 0 4px}
+  .avatar{width:88px;height:88px}
+  .tagline{font-size:14.5px;margin-top:4px}
+  .hero-links{margin-top:8px}
+  .hero-links a{font-size:13px;padding:3px 9px}
+  h1{font-size:1.7rem}
+  .area h2{font-size:1.25rem;margin-bottom:10px}
+  .area{margin-top:36px}
+  .intro-box p{font-size:15px}
   .sel-track{grid-auto-columns:78%}
   .hero{flex-direction:column;align-items:flex-start;gap:14px}
-  .name{font-size:1.6rem}
+  .name{font-size:1.4rem}
   .research-card{flex-direction:column}
   .research-card img{width:100%;height:170px}
   .news li{grid-template-columns:1fr}
