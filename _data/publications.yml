@@ -2,6 +2,34 @@
 # Fields: type (preprint|journal|conference|chapter), date (YYYY-MM, informational; entries are rendered in file order, newest first),
 # highlight (selected paper), award, note, reply (PNAS reply, rendered inside the exchange block),
 # abstract (verbatim from publisher), exchange (letters + replies attached to a main paper).
+- title: "CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition"
+  authors: "Lance Ying, Jinzhou Wu, Yingshan Susan Wang, Shivam Aarya, Luca M. Schulze Buschoff, Harry Chen, Katherine M. Collins, Andrea Gregor de Varda, … Thomas L. Griffiths, Tobias Gerstenberg, Kevin Smith, Joshua B. Tenenbaum (56 authors)"
+  venue: "arXiv:2609.21259"
+  year: 2026
+  date: "2026-09"
+  type: "preprint"
+  project: "https://coggym.org"
+  url: "https://arxiv.org/abs/2609.21259"
+  pdf: "https://arxiv.org/pdf/2609.21259"
+  abstract: "Understanding and modeling human intelligence are parallel goals shared by artificial intelligence (AI) and cognitive science. As AI systems grow increasingly capable, in what ways do model responses resemble human responses, and where do they systematically diverge? The sheer breadth and diversity of the tasks humans can perform and think about pose a challenge for scalable and rigorous comparison between humans and models. We introduce CogGym, a scalable, unified framework grounded in cognitive science for systematically comparing model and human behavior on matched experimental trials. CogGym uses a semi-automated, human-in-the-loop pipeline to standardize diverse experimental paradigms into a task-agnostic Experiment Markup Language (EML), enabling reproducible and faithful comparison at scale. For initial release, we curate and standardize 258 cognitive experiments from 100 papers that focuses on human commonsense reasoning, and evaluate 50 large language models against human responses. We find a clear scaling trend where larger and more recent AI models better reproduce human judgments. Yet AI models' improvement on such common reasoning tasks is considerably slower than the gains observed on formal-reasoning benchmarks like math and coding, and model–human fit remains well below human splithalf reliability (R² = 0.93 on text, 0.95 on image, and 0.92 on video) with the best models achieving R² = 0.59 on text, 0.58 on image, and 0.43 on video experiments. We intend for CogGym to provide a living evaluation framework that continually incorporates new cognitive science experiments to characterize where model behavior resembles human behavior, where it systematically diverges, and how those patterns change as models and experiments evolve."
+- title: "Shared circuits predict whether LLMs generalize across formats in arithmetic reasoning"
+  authors: "Andrea Gregor de Varda, Sana Pandey, Pengrui Han, Jacob Andreas, Evelina Fedorenko"
+  venue: "arXiv:2609.04463"
+  year: 2026
+  date: "2026-09"
+  type: "preprint"
+  url: "https://arxiv.org/abs/2609.04463"
+  pdf: "https://arxiv.org/pdf/2609.04463"
+  abstract: "In many forms of reasoning, including arithmetic reasoning, generalizing across superficial changes in input format is effortless for humans: anyone who can solve 2+5 can also solve 'two plus five'. In contrast, LLMs are more brittle to surface variations of the prompts: for example, they solve numeric arithmetic problems almost perfectly but are substantially less accurate on verbal renditions of the same problems. Here, we ask whether generalization across formats can be predicted from the models' internals. Using attribution patching, we first independently localize the circuit that each model recruits to solve numeric arithmetic problems (2+5) vs. verbal ones, in three languages: English ('two plus five'), Spanish ('dos más cinco'), and Italian ('due più cinque'); then, we test whether overlap with the model's own numeric circuit predicts its generalization to the verbal formats. Indeed, we find support for this idea at three levels: circuit overlap accounts for the relative difficulty of the three verbal formats, for which models generalize best, and for which items are solved correctly, rivaling supervised probes while requiring no labeled data."
+- title: "Last Translation Benchmark"
+  authors: "Vilém Zouhar, Niyati Bafna, Mukund Choudhary, … Andrea Gregor de Varda, … Juri Opitz (260 authors)"
+  venue: "arXiv:2609.04173"
+  year: 2026
+  date: "2026-09"
+  type: "preprint"
+  url: "https://arxiv.org/abs/2609.04173"
+  pdf: "https://arxiv.org/pdf/2609.04173"
+  abstract: "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, opaque, and vulnerable to reward-hacking. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, this prevents us from tracking progress in the field and identifying pathways for improvement. We introduce the Last Translation Benchmark, a collection of human-authored and peer-reviewed examples (texts, images, audio, videos) that break leading machine translation models. We also present a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation. The Last Translation Benchmark is a live dataset that accepts ongoing contributions. The latest version is LTBv1, containing accepted contributions prior to September 1st 2026, with future releases planned as new data is continuously collected."
 - title: "Modular Cognitive Architecture Emerges in Large Language Models"
   authors: "Pengrui Han, Jacob Andreas, Evelina Fedorenko, Andrea Gregor de Varda"
   venue: "arXiv:2608.13567"
