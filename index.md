@@ -70,6 +70,7 @@ permalink: /
 <section>
   <h2>News</h2>
   <ul class="news">
+    <li><time>Oct 2026</time><span>I was named one of the <a href="https://www.statnews.com/wunderkinds/andrea-de-varda/" target="_blank" rel="noopener">2026 STAT Wunderkinds</a>.</span></li>
     <li><time>Sep 2026</time><span>Visiting <a href="https://climblab.org/" target="_blank" rel="noopener">Cory Shain's CLiMB lab</a> at Stanford (September–October 2026).</span></li>
     <li><time>Aug 2026</time><span>Two new preprints: <a href="https://arxiv.org/abs/2608.13567" target="_blank" rel="noopener">Modular cognitive architecture emerges in large language models</a> (led by Pengrui Han, with Jacob Andreas and Ev Fedorenko) and <a href="https://www.biorxiv.org/content/10.64898/2026.08.21.746238v1" target="_blank" rel="noopener">Behavioral and brain responses to language reflect different levels of linguistic representation</a> (with Yevgeni Berzak, Ev Fedorenko, and Roger Levy).</span></li>
     <li><time>Jul 2026</time><span>Invited talks at the CogSci 2026 workshop <em>Laying the foundations for foundation models of cognition</em> (Rio de Janeiro), the Deep Linguistic Modeling colloquium at Heinrich-Heine-Universität Düsseldorf, and the MilaNLP lab at Bocconi University.</span></li>
@@ -77,7 +78,6 @@ permalink: /
     <li><time>Jun 2026</time><span>I was awarded a <strong>Gemini Academic Program Award</strong> from Google DeepMind.</span></li>
     <li><time>Jun 2026</time><span>I gave a keynote at the Multilingual Minds &amp; Machines Meeting (Radboud University, Nijmegen); talks at the University of Amsterdam and the University of Milano-Bicocca.</span></li>
     <li><time>May 2026</time><span>My dissertation received the <strong>Glushko Dissertation Prize</strong> from the Cognitive Science Society.</span></li>
-    <li><time>May 2026</time><span>Large-scale collaboration on <a href="https://www.pnas.org/doi/10.1073/pnas.2524747123" target="_blank" rel="noopener">AI-assisted vs. human-only teams in assessing research reproducibility</a> (Brodeur et al.) published in PNAS.</span></li>
   </ul>
   <details class="news-more">
     <summary>Older news</summary>
