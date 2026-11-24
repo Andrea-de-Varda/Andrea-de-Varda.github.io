@@ -70,6 +70,7 @@ permalink: /
 <section>
   <h2>News</h2>
   <ul class="news">
+    <li><time>Nov 2026</time><span>Our paper <a href="https://www.nature.com/articles/s41593-026-02523-6" target="_blank" rel="noopener">A shared meaning component across languages in the human brain</a> (with Saima Malik-Moraleda, Greta Tuckute, and Ev Fedorenko) is out in <em>Nature Neuroscience</em>. <a href="https://rdcu.be/kXkQ3q7ma1pa" target="_blank" rel="noopener">Free read-only version</a>.</span></li>
     <li><time>Oct 2026</time><span>I was named one of the <a href="https://www.statnews.com/wunderkinds/andrea-de-varda/" target="_blank" rel="noopener">2026 STAT Wunderkinds</a>.</span></li>
     <li><time>Sep 2026</time><span>Visiting <a href="https://climblab.org/" target="_blank" rel="noopener">Cory Shain's CLiMB lab</a> at Stanford (September–October 2026).</span></li>
     <li><time>Aug 2026</time><span>Two new preprints: <a href="https://arxiv.org/abs/2608.13567" target="_blank" rel="noopener">Modular cognitive architecture emerges in large language models</a> (led by Pengrui Han, with Jacob Andreas and Ev Fedorenko) and <a href="https://www.biorxiv.org/content/10.64898/2026.08.21.746238v1" target="_blank" rel="noopener">Behavioral and brain responses to language reflect different levels of linguistic representation</a> (with Yevgeni Berzak, Ev Fedorenko, and Roger Levy).</span></li>

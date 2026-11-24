@@ -46,7 +46,7 @@ permalink: /research/
     <h3>Brain–model alignment across 21 languages</h3>
     <p>
       Using fMRI data from speakers of 21 languages across several language families, we trained encoding models to predict responses in the language network from multilingual model representations. The models predict brain responses within each language and, critically, can be transferred zero-shot to new languages: a model trained on one set of languages accounts for responses in a held-out language. This points to a shared cross-lingual component in brain responses that appears to be tied to meaning.
-      <span class="refs muted">(<a href="https://www.biorxiv.org/content/10.1101/2025.02.01.636044v3" target="_blank" rel="noopener">Multilingual computational models capture a shared meaning component in brain responses across 21 languages</a>, bioRxiv, 2025)</span>
+      <span class="refs muted">(<a href="https://www.nature.com/articles/s41593-026-02523-6" target="_blank" rel="noopener">A shared meaning component across languages in the human brain</a>, Nature Neuroscience, 2026 · <a href="https://www.biorxiv.org/content/10.1101/2025.02.01.636044v3" target="_blank" rel="noopener">preprint</a>)</span>
     </p>
   </div>
 </div>

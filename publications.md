@@ -31,6 +31,9 @@ permalink: /publications/
   <div class="pub-links">
     {% if p.url %}<a href="{{ p.url }}" target="_blank" rel="noopener">{% if p.type == "preprint" %}Preprint{% elsif p.type == "conference" %}Proceedings{% elsif p.type == "chapter" %}Publisher{% else %}Journal{% endif %}</a>{% endif %}
     {% if p.pdf %}<a href="{{ p.pdf }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+    {% if p.sharedit %}<a href="{{ p.sharedit }}" target="_blank" rel="noopener">Read free</a>{% endif %}
+    {% if p.preprint %}<a href="{{ p.preprint }}" target="_blank" rel="noopener">Preprint</a>{% endif %}
+    {% if p.preprint_pdf %}<a href="{{ p.preprint_pdf }}" target="_blank" rel="noopener">Preprint PDF</a>{% endif %}
     {% if p.project %}<a href="{{ p.project }}" target="_blank" rel="noopener">Project page</a>{% endif %}
     {% for m in p.media %}<a href="{{ m.url }}" target="_blank" rel="noopener">{{ m.name }}</a>{% endfor %}
     {% if p.abstract %}
